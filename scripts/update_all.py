@@ -14,6 +14,14 @@ from extract_epa_png import (
     main as extract_epa_png
 )
 
+from fetch_weather import (
+    fetch_weather
+)
+
+from fetch_rainfall import (
+    fetch_rainfall
+)
+
 from merge_series import (
     merge_series
 )
@@ -152,6 +160,9 @@ def main():
         False,
 
         "tide_ok":
+        False,
+
+        "forecast_ok":
         False
     }
 
@@ -186,6 +197,36 @@ def main():
     )
 
     # --------------------------------------------------
+    # WEATHER
+    # --------------------------------------------------
+
+    weather_result = (
+        fetch_weather()
+    )
+
+    metadata[
+        "weather_ok"
+    ] = weather_result.get(
+        "ok",
+        False
+    )
+
+    # --------------------------------------------------
+    # RAINFALL
+    # --------------------------------------------------
+
+    rain_result = (
+        fetch_rainfall()
+    )
+
+    metadata[
+        "rainfall_ok"
+    ] = rain_result.get(
+        "ok",
+        False
+    )
+
+    # --------------------------------------------------
     # SAVE STATUS
     # --------------------------------------------------
 
@@ -195,7 +236,7 @@ def main():
     )
 
     # --------------------------------------------------
-    # MERGE SERIES
+    # MERGE RIVER SERIES
     # --------------------------------------------------
 
     merge_series()
