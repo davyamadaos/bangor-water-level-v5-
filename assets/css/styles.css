@@ -1,0 +1,612 @@
+:root {
+
+    --bg: #f3f4f6;
+    --card: #ffffff;
+
+    --text: #111827;
+    --muted: #6b7280;
+
+    --primary: #0ea5e9;
+    --primary-dark: #0284c7;
+
+    --border: #e5e7eb;
+
+    --success: #10b981;
+    --warning: #f59e0b;
+    --danger: #ef4444;
+
+    --shadow:
+        0 2px 8px rgba(0,0,0,.08);
+
+    --radius: 14px;
+}
+
+body.dark {
+
+    --bg: #0f172a;
+    --card: #111827;
+
+    --text: #f3f4f6;
+    --muted: #94a3b8;
+
+    --border: #1f2937;
+
+    --shadow:
+        0 2px 8px rgba(0,0,0,.4);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+
+    margin: 0;
+
+    font-family:
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+    background: var(--bg);
+    color: var(--text);
+
+    transition:
+        background .2s,
+        color .2s;
+}
+
+/* ================================================= */
+/* HEADER */
+/* ================================================= */
+
+.topbar {
+
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    gap: 12px;
+
+    padding: 14px 16px;
+
+    background: var(--card);
+
+    border-bottom:
+        1px solid var(--border);
+
+    box-shadow: var(--shadow);
+}
+
+.topbar h1 {
+
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+.subtitle {
+
+    margin: 4px 0 0 0;
+    font-size: .8rem;
+    color: var(--muted);
+}
+
+.header-actions {
+
+    display: flex;
+    gap: 8px;
+}
+
+.header-actions button {
+
+    padding: 10px 14px;
+
+    border: none;
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    background: var(--primary);
+    color: white;
+
+    font-weight: 600;
+}
+
+/* ================================================= */
+/* LAYOUT */
+/* ================================================= */
+
+.container {
+
+    width: 100%;
+    max-width: 1100px;
+
+    margin: 0 auto;
+
+    padding: 12px;
+}
+
+.card {
+
+    background: var(--card);
+
+    border:
+        1px solid var(--border);
+
+    border-radius: var(--radius);
+
+    box-shadow: var(--shadow);
+
+    padding: 16px;
+
+    margin-bottom: 14px;
+}
+
+.card h2 {
+
+    margin-top: 0;
+    margin-bottom: 14px;
+
+    font-size: 1.1rem;
+}
+
+/* ================================================= */
+/* CURRENT STATUS */
+/* ================================================= */
+
+.status-grid {
+
+    display: grid;
+
+    gap: 16px;
+}
+
+.big-level {
+
+    text-align: center;
+}
+
+.big-level span {
+
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.unit {
+
+    color: var(--muted);
+    font-size: .95rem;
+}
+
+.status-details {
+
+    display: grid;
+    gap: 8px;
+}
+
+.meta-grid {
+
+    display: grid;
+    gap: 12px;
+
+    margin-top: 12px;
+}
+
+/* ================================================= */
+/* TREND LABELS */
+/* ================================================= */
+
+.trend-rising {
+
+    color: var(--success);
+    font-weight: 700;
+}
+
+.trend-falling {
+
+    color: var(--danger);
+    font-weight: 700;
+}
+
+.trend-stable {
+
+    color: var(--warning);
+    font-weight: 700;
+}
+
+/* ================================================= */
+/* RANGE BUTTONS */
+/* ================================================= */
+
+.range-buttons {
+
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 8px;
+
+    margin-bottom: 14px;
+}
+
+.range-btn {
+
+    border: 1px solid var(--border);
+
+    background: transparent;
+
+    color: var(--text);
+
+    padding: 8px 12px;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+
+.range-btn.active {
+
+    background: var(--primary);
+    color: white;
+
+    border-color: var(--primary);
+}
+
+/* ================================================= */
+/* CHARTS */
+/* ================================================= */
+
+.chart-wrapper {
+
+    position: relative;
+
+    width: 100%;
+
+    min-height: 300px;
+}
+
+.chart-wrapper canvas {
+
+    width: 100% !important;
+    height: 300px !important;
+}
+
+/* ================================================= */
+/* EPA IMAGE */
+/* ================================================= */
+
+.epa-chart {
+
+    width: 100%;
+
+    display: block;
+
+    border-radius: 10px;
+
+    border:
+        1px solid var(--border);
+}
+
+.small-note {
+
+    color: var(--muted);
+
+    font-size: .85rem;
+
+    margin-bottom: 10px;
+}
+
+/* ================================================= */
+/* FORECAST */
+/* ================================================= */
+
+.forecast-grid {
+
+    display: grid;
+
+    gap: 12px;
+}
+
+.forecast-card {
+
+    border:
+        1px solid var(--border);
+
+    border-radius: 12px;
+
+    padding: 12px;
+}
+
+.forecast-level {
+
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.forecast-time {
+
+    color: var(--muted);
+    font-size: .85rem;
+}
+
+.forecast-confidence {
+
+    margin-top: 8px;
+    font-size: .85rem;
+}
+
+/* ================================================= */
+/* TABLE */
+/* ================================================= */
+
+.table-wrap {
+
+    overflow-x: auto;
+}
+
+table {
+
+    width: 100%;
+
+    border-collapse: collapse;
+}
+
+th,
+td {
+
+    padding: 10px;
+
+    text-align: left;
+
+    border-bottom:
+        1px solid var(--border);
+
+    font-size: .9rem;
+}
+
+th {
+
+    background: rgba(0,0,0,.03);
+}
+
+body.dark th {
+
+    background: rgba(255,255,255,.04);
+}
+
+/* ================================================= */
+/* METRICS */
+/* ================================================= */
+
+.metric-grid {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(2,1fr);
+
+    gap: 12px;
+}
+
+.metric {
+
+    border:
+        1px solid var(--border);
+
+    border-radius: 12px;
+
+    padding: 12px;
+}
+
+.metric label {
+
+    display: block;
+
+    color: var(--muted);
+
+    margin-bottom: 6px;
+
+    font-size: .85rem;
+}
+
+.metric span {
+
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+/* ================================================= */
+/* WEATHER */
+/* ================================================= */
+
+.weather-grid {
+
+    display: grid;
+
+    gap: 12px;
+}
+
+.weather-day {
+
+    border:
+        1px solid var(--border);
+
+    border-radius: 12px;
+
+    padding: 10px;
+}
+
+/* ================================================= */
+/* SETTINGS */
+/* ================================================= */
+
+.setting-row {
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 10px;
+
+    align-items: center;
+}
+
+.setting-row input {
+
+    padding: 10px;
+
+    border-radius: 10px;
+
+    border:
+        1px solid var(--border);
+
+    background: var(--card);
+
+    color: var(--text);
+}
+
+.setting-row button {
+
+    border: none;
+
+    background: var(--primary);
+
+    color: white;
+
+    padding: 10px 14px;
+
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+
+/* ================================================= */
+/* DATA STATUS */
+/* ================================================= */
+
+.status-ok {
+
+    color: var(--success);
+}
+
+.status-warning {
+
+    color: var(--warning);
+}
+
+.status-error {
+
+    color: var(--danger);
+}
+
+/* ================================================= */
+/* SOURCES */
+/* ================================================= */
+
+.card-sources {
+
+    margin-top: 12px;
+
+    padding-top: 8px;
+
+    border-top:
+        1px solid var(--border);
+
+    font-size: 0.75rem;
+
+    color: var(--muted);
+
+    line-height: 1.4;
+}
+
+.card-sources a {
+
+    color: var(--muted);
+
+    text-decoration: none;
+}
+
+.card-sources a:hover,
+.card-sources a:focus {
+
+    text-decoration: underline;
+}
+
+/* ================================================= */
+/* FOOTER */
+/* ================================================= */
+
+.footer {
+
+    text-align: center;
+
+    padding: 20px;
+
+    color: var(--muted);
+
+    font-size: .85rem;
+}
+
+/* ================================================= */
+/* TABLET */
+/* ================================================= */
+
+@media (min-width: 700px) {
+
+    .status-grid {
+
+        grid-template-columns:
+            220px 1fr;
+    }
+
+    .meta-grid {
+
+        grid-template-columns:
+            repeat(3,1fr);
+    }
+
+    .metric-grid {
+
+        grid-template-columns:
+            repeat(3,1fr);
+    }
+
+    .forecast-grid {
+
+        grid-template-columns:
+            repeat(3,1fr);
+    }
+}
+
+/* ================================================= */
+/* DESKTOP */
+/* ================================================= */
+
+@media (min-width: 1000px) {
+
+    .metric-grid {
+
+        grid-template-columns:
+            repeat(6,1fr);
+    }
+
+    .forecast-grid {
+
+        grid-template-columns:
+            repeat(5,1fr);
+    }
+
+    .chart-wrapper canvas {
+
+        height: 420px !important;
+    }
+}
