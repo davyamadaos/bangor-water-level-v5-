@@ -4,8 +4,6 @@ from datetime import (
     timezone
 )
 
-import numpy as np
-
 from config import (
     RIVER_JSON,
     RAIN_JSON,
@@ -29,12 +27,21 @@ FORECAST_HOURS = [
 
 def parse_time(ts):
 
-    return datetime.fromisoformat(
-        ts.replace(
-            "Z",
-            "+00:00"
+    if not ts:
+        return None
+
+    try:
+
+        return datetime.fromisoformat(
+            ts.replace(
+                "Z",
+                "+00:00"
+            )
         )
-    )
+
+    except Exception:
+
+        return None
 
 
 def latest_level():
@@ -47,7 +54,58 @@ def latest_level():
     if not river:
         return None
 
-    return river[-1]
+    latest = river[-1]
+
+    return {
+
+        "timestamp":
+        latest.get(
+            "timestamp"
+        ),
+
+        "level_m":
+        latest.get(
+            "level_m"
+        ),
+
+        "source":
+        latest.get(
+            "source",
+            "unknown"
+        ),
+
+        "confidence":
+        latest.get(
+            "confidence",
+            "medium"
+        )
+    }
+
+
+def observation_age_hours(
+    timestamp
+):
+
+    try:
+
+        dt = parse_time(
+            timestamp
+        )
+
+        if not dt:
+            return 999
+
+        now = datetime.now(
+            timezone.utc
+        )
+
+        return (
+            now - dt
+        ).total_seconds() / 3600
+
+    except Exception:
+
+        return 999
 
 
 def calculate_rate():
@@ -66,12 +124,19 @@ def calculate_rate():
     last = recent[-1]
 
     t1 = parse_time(
-        first["timestamp"]
+        first.get(
+            "timestamp"
+        )
     )
 
     t2 = parse_time(
-        last["timestamp"]
+        last.get(
+            "timestamp"
+        )
     )
+
+    if not t1 or not t2:
+        return 0
 
     hours = (
         t2 - t1
@@ -80,55 +145,67 @@ def calculate_rate():
     if hours <= 0:
         return 0
 
-    delta = (
-        last["level_m"]
-        - first["level_m"]
-    )
+    try:
 
-    return delta / hours
+        delta = (
+            float(
+                last["level_m"]
+            )
+            -
+            float(
+                first["level_m"]
+            )
+        )
+
+        return delta / hours
+
+    except Exception:
+
+        return 0
 
 
-def rainfall_forecast():
+def rainfall_summary():
 
     rain = read_json(
         RAIN_JSON,
         {}
     )
 
-    return (
-        rain.get(
-            "summary",
-            {}
-        )
+    return rain.get(
+        "summary",
+        {}
     )
 
 
 def confidence_from_inputs(
     rate,
-    rain
+    rain,
+    age_hours
 ):
 
-    if abs(rate) < 0.005:
-
-        return "high"
+    if age_hours > 24:
+        return "low"
 
     if (
         rain.get(
             "next24h_mm",
             0
-        ) > 25
+        ) > 30
     ):
         return "low"
+
+    if abs(rate) < 0.002:
+        return "high"
 
     return "medium"
 
 
 def rainfall_response(
     hour,
-    rain_summary
+    rain
 ):
 
-    total = rain_summary.get(
+    total = rain.get(
         "next24h_mm",
         0
     )
@@ -136,18 +213,18 @@ def rainfall_response(
     if total <= 0:
         return 0
 
-    # Catchment lag
-
     if hour < 3:
         return 0
 
     if hour <= 6:
+
         return (
             total *
             0.001
         )
 
     if hour <= 12:
+
         return (
             total *
             0.002
@@ -172,6 +249,53 @@ def recession_factor(
     )
 
 
+def trend_label(rate):
+
+    mm_hr = (
+        rate * 1000
+    )
+
+    if mm_hr > 2:
+        return "rising"
+
+    if mm_hr < -2:
+        return "falling"
+
+    return "stable"
+
+
+def build_basis(
+    rate,
+    rain
+):
+
+    basis = []
+
+    if abs(rate) > 0.001:
+        basis.append(
+            "recent trend"
+        )
+
+    if (
+        rain.get(
+            "next24h_mm",
+            0
+        ) > 0
+    ):
+        basis.append(
+            "rainfall forecast"
+        )
+
+    if not basis:
+        basis.append(
+            "stable river"
+        )
+
+    return ", ".join(
+        basis
+    )
+
+
 def build_forecast():
 
     current = latest_level()
@@ -184,33 +308,63 @@ def build_forecast():
         )
 
         return {
-            "ok": False
+            "ok": False,
+            "error":
+            "No river data"
         }
 
-    now_level = (
-        current["level_m"]
+    now_level = current.get(
+        "level_m"
     )
 
     now_time = parse_time(
-        current["timestamp"]
+        current.get(
+            "timestamp"
+        )
     )
 
-    rate = (
-        calculate_rate()
-    )
+    if (
+        now_level is None
+        or
+        not now_time
+    ):
 
-    rain = (
-        rainfall_forecast()
+        write_json(
+            FORECAST_JSON,
+            []
+        )
+
+        return {
+            "ok": False,
+            "error":
+            "Invalid current observation"
+        }
+
+    rate = calculate_rate()
+
+    rain = rainfall_summary()
+
+    age_hours = (
+        observation_age_hours(
+            current[
+                "timestamp"
+            ]
+        )
     )
 
     confidence = (
         confidence_from_inputs(
             rate,
-            rain
+            rain,
+            age_hours
         )
     )
 
-    results = []
+    trend = trend_label(
+        rate
+    )
+
+    forecast = []
 
     for hour in (
         FORECAST_HOURS
@@ -244,32 +398,13 @@ def build_forecast():
             rain_component
         )
 
-        basis = []
-
-        if abs(rate) > 0.001:
-            basis.append(
-                "recent trend"
-            )
-
-        if (
-            rain.get(
-                "next24h_mm",
-                0
-            ) > 0
-        ):
-            basis.append(
-                "rainfall forecast"
-            )
-
-        if not basis:
-            basis.append(
-                "stable river"
-            )
-
-        results.append({
+        forecast.append({
 
             "timestamp":
             forecast_time.isoformat(),
+
+            "hours_ahead":
+            hour,
 
             "level_m":
             round(
@@ -278,31 +413,71 @@ def build_forecast():
             ),
 
             "basis":
-            ", ".join(
-                basis
+            build_basis(
+                rate,
+                rain
             ),
 
             "confidence":
             confidence,
 
             "source":
-            "forecast"
+            "forecast",
+
+            "trend":
+            trend,
+
+            "starting_level":
+            round(
+                now_level,
+                3
+            ),
+
+            "starting_level_source":
+            current.get(
+                "source"
+            ),
+
+            "starting_level_confidence":
+            current.get(
+                "confidence"
+            ),
+
+            "observation_age_hours":
+            round(
+                age_hours,
+                1
+            )
         })
 
     write_json(
         FORECAST_JSON,
-        results
+        forecast
     )
 
     return {
+
         "ok": True,
+
         "count":
-        len(results)
+        len(
+            forecast
+        ),
+
+        "trend":
+        trend,
+
+        "confidence":
+        confidence
     }
 
 
 if __name__ == "__main__":
 
-    print(
+    result = (
         build_forecast()
+    )
+
+    print(
+        result
     )
