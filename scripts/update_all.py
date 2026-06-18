@@ -1,5 +1,3 @@
-from datetime import datetime
-
 from utils import (
     read_json,
     write_json,
@@ -10,6 +8,10 @@ from config import *
 
 from fetch_epa_zip import (
     fetch_epa_zip
+)
+
+from extract_epa_png import (
+    main as extract_epa_png
 )
 
 from merge_series import (
@@ -133,9 +135,29 @@ def build_latest():
 def main():
 
     metadata = {
+
         "last_update":
-        now_iso()
+        now_iso(),
+
+        "epa_zip_ok":
+        False,
+
+        "epa_png_ok":
+        False,
+
+        "weather_ok":
+        False,
+
+        "rainfall_ok":
+        False,
+
+        "tide_ok":
+        False
     }
+
+    # --------------------------------------------------
+    # EPA ZIP
+    # --------------------------------------------------
 
     zip_result = (
         fetch_epa_zip()
@@ -143,30 +165,44 @@ def main():
 
     metadata[
         "epa_zip_ok"
-    ] = zip_result["ok"]
+    ] = zip_result.get(
+        "ok",
+        False
+    )
+
+    # --------------------------------------------------
+    # EPA PNG EXTRACTION
+    # --------------------------------------------------
+
+    png_result = (
+        extract_epa_png()
+    )
 
     metadata[
         "epa_png_ok"
-    ] = False
+    ] = png_result.get(
+        "success",
+        False
+    )
 
-    metadata[
-        "weather_ok"
-    ] = False
-
-    metadata[
-        "rainfall_ok"
-    ] = False
-
-    metadata[
-        "tide_ok"
-    ] = False
+    # --------------------------------------------------
+    # SAVE STATUS
+    # --------------------------------------------------
 
     write_json(
         METADATA_JSON,
         metadata
     )
 
+    # --------------------------------------------------
+    # MERGE SERIES
+    # --------------------------------------------------
+
     merge_series()
+
+    # --------------------------------------------------
+    # BUILD FRONTEND BUNDLE
+    # --------------------------------------------------
 
     build_latest()
 
