@@ -138,7 +138,6 @@ def build_latest():
             []
         ),
 
-        # Placeholder until Part 13
         "summary_12h":
         []
     }
@@ -251,6 +250,14 @@ def main():
     )
 
     # --------------------------------------------------
+    # MERGE RIVER SERIES
+    # IMPORTANT:
+    # Forecast must use merged ZIP + PNG data
+    # --------------------------------------------------
+
+    merge_series()
+
+    # --------------------------------------------------
     # FORECAST
     # --------------------------------------------------
 
@@ -273,13 +280,6 @@ def main():
         METADATA_JSON,
         metadata
     )
-
-    # --------------------------------------------------
-    # MERGE RIVER SERIES
-    # ZIP + PNG-DERIVED
-    # --------------------------------------------------
-
-    merge_series()
 
     # --------------------------------------------------
     # BUILD FRONTEND BUNDLE
