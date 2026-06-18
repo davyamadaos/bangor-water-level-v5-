@@ -1,0 +1,9 @@
+{
+  "name": "Bangor Water Level Dashboard",
+  "short_name": "Bangor River",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#0ea5e9",
+  "start_url": "./",
+  "icons": []
+}
