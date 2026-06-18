@@ -22,6 +22,14 @@ from fetch_rainfall import (
     fetch_rainfall
 )
 
+from fetch_tides import (
+    fetch_tides
+)
+
+from forecast import (
+    build_forecast
+)
+
 from merge_series import (
     merge_series
 )
@@ -130,6 +138,7 @@ def build_latest():
             []
         ),
 
+        # Placeholder until Part 13
         "summary_12h":
         []
     }
@@ -227,7 +236,37 @@ def main():
     )
 
     # --------------------------------------------------
-    # SAVE STATUS
+    # TIDES
+    # --------------------------------------------------
+
+    tide_result = (
+        fetch_tides()
+    )
+
+    metadata[
+        "tide_ok"
+    ] = tide_result.get(
+        "ok",
+        False
+    )
+
+    # --------------------------------------------------
+    # FORECAST
+    # --------------------------------------------------
+
+    forecast_result = (
+        build_forecast()
+    )
+
+    metadata[
+        "forecast_ok"
+    ] = forecast_result.get(
+        "ok",
+        False
+    )
+
+    # --------------------------------------------------
+    # SAVE METADATA
     # --------------------------------------------------
 
     write_json(
@@ -237,6 +276,7 @@ def main():
 
     # --------------------------------------------------
     # MERGE RIVER SERIES
+    # ZIP + PNG-DERIVED
     # --------------------------------------------------
 
     merge_series()
