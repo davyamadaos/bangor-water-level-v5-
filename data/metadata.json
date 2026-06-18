@@ -1,0 +1,9 @@
+{
+  "status":"initial",
+  "last_update":null,
+  "epa_zip_ok":false,
+  "epa_png_ok":false,
+  "weather_ok":false,
+  "rainfall_ok":false,
+  "tide_ok":false
+}
