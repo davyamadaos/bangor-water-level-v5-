@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-19T11:55:41.865867+00:00",
+  "generated": "2026-06-19T18:21:21.010911+00:00",
   "plot": {
     "left": 63,
     "right": 665,
@@ -7,7 +7,7 @@
     "bottom": 440,
     "method": "detected"
   },
-  "ocr_preview": "S [m(TEM)]\n\nBANGOR / Stage\n100.16\n\n100.10\n100.08\n100.00\n99.05\n29.00\n99.85\n99.80\n09.75\n99.70\n99.05\n99.60\n99.85\n99.50\n99.45\n99.40\n99.35\n29.30\n99.25\n99.20\n90.16\n99.10\n99.05\n99.00\n98.05\n\n2003.26 2803.26 05.0426 130426 21.0426 20.0426 07.05.26\nLast value at 1.06.26 08:45 99.459 m (TBM)\n\nResponsible: Environmental Protection Agency\n\nEPA\n\n1605.28 23.08.26 31.05.28 08.06.26\n\n16.08.26\nRaw 15min data\n\n19,06,2026 11:27\n\nAC KISTERS\n",
+  "ocr_preview": "S [m(TEM)]\n\nBANGOR / Stage\n100.16\n\n100.10\n100.08\n100.00\n99.05\n29.00\n99.85\n99.80\n09.75\n99.70\n99.05\n99.60\n99.85\n99.50\n99.45\n99.40\n99.35\n29.30\n99.25\n99.20\n90.16\n99.10\n99.05\n99.00\n98.05\n\n2003.26 2803.28 05.0426 130426 21.0426 20.0426 07.05.26\nLast value at 106.26 12:45 99.822 m (TBM)\n\nResponsible: Environmental Protection Agency\n\nEPA\n\n1605.28 23.08.26 31.05.28 08.06.26\n\n16.08.26\nRaw 15min data\n\n19,06,2028 17:53\n\nAC KISTERS\n",
   "point_count": 602,
   "confidence": "medium",
   "success": true
