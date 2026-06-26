@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-26T17:19:40.096938+00:00",
+  "generated": "2026-06-26T21:52:26.133611+00:00",
   "success": false,
-  "error": "HTTPSConnectionPool(host='epawebapp.epa.ie', port=443): Max retries exceeded with url: /Hydronet/output/internet/stations/CAS/33008/S/extralarge_3m_extralarge.png (Caused by ConnectTimeoutError(<HTTPSConnection(host='epawebapp.epa.ie', port=443) at 0x7fc0db0e1850>, 'Connection to epawebapp.epa.ie timed out. (connect timeout=60)'))"
+  "error": "HTTPSConnectionPool(host='epawebapp.epa.ie', port=443): Max retries exceeded with url: /Hydronet/output/internet/stations/CAS/33008/S/extralarge_3m_extralarge.png (Caused by ConnectTimeoutError(<HTTPSConnection(host='epawebapp.epa.ie', port=443) at 0x7f2d971c0f10>, 'Connection to epawebapp.epa.ie timed out. (connect timeout=60)'))"
 }
