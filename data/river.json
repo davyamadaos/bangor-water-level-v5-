@@ -1,4213 +1,4213 @@
 [
   {
-    "timestamp": "2026-04-09T13:17:11.688917+00:00",
+    "timestamp": "2026-04-09T18:13:42.920771+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-09T16:52:28.632471+00:00",
+    "timestamp": "2026-04-09T21:48:59.864326+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-09T20:27:45.576001+00:00",
+    "timestamp": "2026-04-10T01:24:16.807856+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-10T00:03:02.519528+00:00",
+    "timestamp": "2026-04-10T04:59:33.751384+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-10T03:38:19.463054+00:00",
+    "timestamp": "2026-04-10T08:34:50.694911+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-10T07:13:36.406581+00:00",
+    "timestamp": "2026-04-10T12:10:07.638437+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-10T10:48:53.350108+00:00",
+    "timestamp": "2026-04-10T15:45:24.581964+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-10T14:24:10.293635+00:00",
+    "timestamp": "2026-04-10T19:20:41.525491+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-10T17:59:27.237163+00:00",
+    "timestamp": "2026-04-10T22:55:58.469020+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-10T21:34:44.180689+00:00",
+    "timestamp": "2026-04-11T02:31:15.412547+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-11T01:10:01.124216+00:00",
+    "timestamp": "2026-04-11T06:06:32.356073+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-11T04:45:18.067742+00:00",
+    "timestamp": "2026-04-11T09:41:49.299600+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-11T08:20:35.011267+00:00",
+    "timestamp": "2026-04-11T13:17:06.243125+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-11T11:55:51.954793+00:00",
+    "timestamp": "2026-04-11T16:52:23.186651+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-11T15:31:08.898318+00:00",
+    "timestamp": "2026-04-11T20:27:40.130176+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-11T19:06:25.841844+00:00",
+    "timestamp": "2026-04-12T00:02:57.073702+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-11T22:41:42.785371+00:00",
+    "timestamp": "2026-04-12T03:38:14.017228+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-12T02:16:59.728896+00:00",
+    "timestamp": "2026-04-12T07:13:30.960753+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-12T05:52:16.672422+00:00",
+    "timestamp": "2026-04-12T10:48:47.904280+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-12T09:27:33.615948+00:00",
+    "timestamp": "2026-04-12T14:24:04.847805+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-12T13:02:50.559474+00:00",
+    "timestamp": "2026-04-12T17:59:21.791331+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-12T16:38:07.502999+00:00",
+    "timestamp": "2026-04-12T21:34:38.734856+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-12T20:13:24.446525+00:00",
+    "timestamp": "2026-04-13T01:09:55.678382+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-12T23:48:41.390051+00:00",
+    "timestamp": "2026-04-13T04:45:12.621908+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-13T03:23:58.333576+00:00",
+    "timestamp": "2026-04-13T08:20:29.565437+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-13T06:59:15.277102+00:00",
+    "timestamp": "2026-04-13T11:55:46.508964+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-13T10:34:32.220627+00:00",
+    "timestamp": "2026-04-13T15:31:03.452489+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-13T14:09:49.164152+00:00",
+    "timestamp": "2026-04-13T19:06:20.396015+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-13T17:45:06.107705+00:00",
+    "timestamp": "2026-04-13T22:41:37.339541+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-13T21:20:23.051232+00:00",
+    "timestamp": "2026-04-14T02:16:54.283066+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-14T00:55:39.994758+00:00",
+    "timestamp": "2026-04-14T05:52:11.226592+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-14T04:30:56.938283+00:00",
+    "timestamp": "2026-04-14T09:27:28.170117+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-14T08:06:13.881809+00:00",
+    "timestamp": "2026-04-14T13:02:45.113643+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-14T11:41:30.825335+00:00",
+    "timestamp": "2026-04-14T16:38:02.057169+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-14T15:16:47.768861+00:00",
+    "timestamp": "2026-04-14T20:13:19.000694+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-14T18:52:04.712387+00:00",
+    "timestamp": "2026-04-14T23:48:35.944220+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-14T22:27:21.655912+00:00",
+    "timestamp": "2026-04-15T03:23:52.887745+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-15T02:02:38.599438+00:00",
+    "timestamp": "2026-04-15T06:59:09.831271+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-15T05:37:55.542963+00:00",
+    "timestamp": "2026-04-15T10:34:26.774797+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-15T09:13:12.486488+00:00",
+    "timestamp": "2026-04-15T14:09:43.718322+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-15T12:48:29.430014+00:00",
+    "timestamp": "2026-04-15T17:45:00.661848+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-15T16:23:46.373539+00:00",
+    "timestamp": "2026-04-15T21:20:17.605373+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-15T19:59:03.317065+00:00",
+    "timestamp": "2026-04-16T00:55:34.548899+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-15T23:34:20.260591+00:00",
+    "timestamp": "2026-04-16T04:30:51.492425+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-16T03:09:37.204116+00:00",
+    "timestamp": "2026-04-16T08:06:08.435950+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-16T06:44:54.147643+00:00",
+    "timestamp": "2026-04-16T11:41:25.379477+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-16T10:20:11.091168+00:00",
+    "timestamp": "2026-04-16T15:16:42.323002+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-16T13:55:28.034694+00:00",
+    "timestamp": "2026-04-16T18:51:59.266529+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-16T17:30:44.978220+00:00",
+    "timestamp": "2026-04-16T22:27:16.210055+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-16T21:06:01.921745+00:00",
+    "timestamp": "2026-04-17T02:02:33.153580+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-17T00:41:18.865272+00:00",
+    "timestamp": "2026-04-17T05:37:50.097106+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-17T04:16:35.808797+00:00",
+    "timestamp": "2026-04-17T09:13:07.040631+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-17T07:51:52.752323+00:00",
+    "timestamp": "2026-04-17T12:48:23.984157+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-17T11:27:09.695849+00:00",
+    "timestamp": "2026-04-17T16:23:40.927683+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-17T15:02:26.639374+00:00",
+    "timestamp": "2026-04-17T19:58:57.871208+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-17T18:37:43.582900+00:00",
+    "timestamp": "2026-04-17T23:34:14.814734+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-17T22:13:00.526425+00:00",
+    "timestamp": "2026-04-18T03:09:31.758259+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-18T01:48:17.469951+00:00",
+    "timestamp": "2026-04-18T06:44:48.701785+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-18T05:23:34.413476+00:00",
+    "timestamp": "2026-04-18T10:20:05.645309+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-18T08:58:51.357002+00:00",
+    "timestamp": "2026-04-18T13:55:22.588835+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-18T12:34:08.300528+00:00",
+    "timestamp": "2026-04-18T17:30:39.532361+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-18T16:09:25.244053+00:00",
+    "timestamp": "2026-04-18T21:05:56.475886+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-18T19:44:42.187579+00:00",
+    "timestamp": "2026-04-19T00:41:13.419412+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-18T23:19:59.131104+00:00",
+    "timestamp": "2026-04-19T04:16:30.362937+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-19T02:55:16.074630+00:00",
+    "timestamp": "2026-04-19T07:51:47.306463+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-19T06:30:33.018156+00:00",
+    "timestamp": "2026-04-19T11:27:04.249990+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-19T10:05:49.961681+00:00",
+    "timestamp": "2026-04-19T15:02:21.193515+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-19T13:41:06.905207+00:00",
+    "timestamp": "2026-04-19T18:37:38.137041+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-19T17:16:23.848732+00:00",
+    "timestamp": "2026-04-19T22:12:55.080566+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-19T20:51:40.792258+00:00",
+    "timestamp": "2026-04-20T01:48:12.024092+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-20T00:26:57.735783+00:00",
+    "timestamp": "2026-04-20T05:23:28.967618+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-20T04:02:14.679308+00:00",
+    "timestamp": "2026-04-20T08:58:45.911143+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-20T07:37:31.622834+00:00",
+    "timestamp": "2026-04-20T12:34:02.854669+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-20T11:12:48.566359+00:00",
+    "timestamp": "2026-04-20T16:09:19.798194+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-20T14:48:05.509886+00:00",
+    "timestamp": "2026-04-20T19:44:36.741721+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-20T18:23:22.453412+00:00",
+    "timestamp": "2026-04-20T23:19:53.685246+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-20T21:58:39.396937+00:00",
+    "timestamp": "2026-04-21T02:55:10.628771+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-21T01:33:56.340463+00:00",
+    "timestamp": "2026-04-21T06:30:27.572299+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-21T05:09:13.283989+00:00",
+    "timestamp": "2026-04-21T10:05:44.515824+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-21T08:44:30.227515+00:00",
+    "timestamp": "2026-04-21T13:41:01.459350+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-21T12:19:47.171041+00:00",
+    "timestamp": "2026-04-21T17:16:18.402876+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-21T15:55:04.114566+00:00",
+    "timestamp": "2026-04-21T20:51:35.346401+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-21T19:30:21.058093+00:00",
+    "timestamp": "2026-04-22T00:26:52.289927+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-21T23:05:38.001619+00:00",
+    "timestamp": "2026-04-22T04:02:09.233452+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-22T02:40:54.945145+00:00",
+    "timestamp": "2026-04-22T07:37:26.176978+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-22T06:16:11.888671+00:00",
+    "timestamp": "2026-04-22T11:12:43.120504+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-22T09:51:28.832196+00:00",
+    "timestamp": "2026-04-22T14:48:00.064028+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-22T13:26:45.775722+00:00",
+    "timestamp": "2026-04-22T18:23:17.007554+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-22T17:02:02.719247+00:00",
+    "timestamp": "2026-04-22T21:58:33.951079+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-22T20:37:19.662773+00:00",
+    "timestamp": "2026-04-23T01:33:50.894605+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-23T00:12:36.606300+00:00",
+    "timestamp": "2026-04-23T05:09:07.838131+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-23T03:47:53.549825+00:00",
+    "timestamp": "2026-04-23T08:44:24.781657+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-23T07:23:10.493351+00:00",
+    "timestamp": "2026-04-23T12:19:41.725182+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-23T10:58:27.436876+00:00",
+    "timestamp": "2026-04-23T15:54:58.668708+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-23T14:33:44.380402+00:00",
+    "timestamp": "2026-04-23T19:30:15.612234+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-23T18:09:01.323927+00:00",
+    "timestamp": "2026-04-23T23:05:32.555759+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-23T21:44:18.267453+00:00",
+    "timestamp": "2026-04-24T02:40:49.499284+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-24T01:19:35.210979+00:00",
+    "timestamp": "2026-04-24T06:16:06.442810+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-24T04:54:52.154504+00:00",
+    "timestamp": "2026-04-24T09:51:23.386335+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-24T08:30:09.098030+00:00",
+    "timestamp": "2026-04-24T13:26:40.329861+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-24T12:05:26.041555+00:00",
+    "timestamp": "2026-04-24T17:01:57.273386+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-24T15:40:42.985081+00:00",
+    "timestamp": "2026-04-24T20:37:14.216912+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-24T19:15:59.928607+00:00",
+    "timestamp": "2026-04-25T00:12:31.160438+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-24T22:51:16.872132+00:00",
+    "timestamp": "2026-04-25T03:47:48.103963+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-25T02:26:33.815658+00:00",
+    "timestamp": "2026-04-25T07:23:05.047489+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-25T06:01:50.759184+00:00",
+    "timestamp": "2026-04-25T10:58:21.991014+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-25T09:37:07.702710+00:00",
+    "timestamp": "2026-04-25T14:33:38.934540+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-25T13:12:24.646236+00:00",
+    "timestamp": "2026-04-25T18:08:55.878066+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-25T16:47:41.589761+00:00",
+    "timestamp": "2026-04-25T21:44:12.821591+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-25T20:22:58.533287+00:00",
+    "timestamp": "2026-04-26T01:19:29.765117+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-25T23:58:15.476812+00:00",
+    "timestamp": "2026-04-26T04:54:46.708642+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-26T03:33:32.420338+00:00",
+    "timestamp": "2026-04-26T08:30:03.652168+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-26T07:08:49.363864+00:00",
+    "timestamp": "2026-04-26T12:05:20.595694+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-26T10:44:06.307389+00:00",
+    "timestamp": "2026-04-26T15:40:37.539219+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-26T14:19:23.250916+00:00",
+    "timestamp": "2026-04-26T19:15:54.482744+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-26T17:54:40.194441+00:00",
+    "timestamp": "2026-04-26T22:51:11.426269+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-26T21:29:57.137967+00:00",
+    "timestamp": "2026-04-27T02:26:28.369795+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-27T01:05:14.081493+00:00",
+    "timestamp": "2026-04-27T06:01:45.313321+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-27T04:40:31.025018+00:00",
+    "timestamp": "2026-04-27T09:37:02.256846+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-27T08:15:47.968544+00:00",
+    "timestamp": "2026-04-27T13:12:19.200372+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-27T11:51:04.912069+00:00",
+    "timestamp": "2026-04-27T16:47:36.143897+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-27T15:26:21.855595+00:00",
+    "timestamp": "2026-04-27T20:22:53.087423+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-27T19:01:38.799121+00:00",
+    "timestamp": "2026-04-27T23:58:10.030949+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-27T22:36:55.742646+00:00",
+    "timestamp": "2026-04-28T03:33:26.974474+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-28T02:12:12.686172+00:00",
+    "timestamp": "2026-04-28T07:08:43.918000+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-28T05:47:29.629697+00:00",
+    "timestamp": "2026-04-28T10:44:00.861525+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-28T09:22:46.573223+00:00",
+    "timestamp": "2026-04-28T14:19:17.805051+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-28T12:58:03.516749+00:00",
+    "timestamp": "2026-04-28T17:54:34.748577+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-28T16:33:20.460274+00:00",
+    "timestamp": "2026-04-28T21:29:51.692102+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-28T20:08:37.403800+00:00",
+    "timestamp": "2026-04-29T01:05:08.635628+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-28T23:43:54.347325+00:00",
+    "timestamp": "2026-04-29T04:40:25.579154+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-29T03:19:11.290852+00:00",
+    "timestamp": "2026-04-29T08:15:42.522680+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-29T06:54:28.234377+00:00",
+    "timestamp": "2026-04-29T11:50:59.466205+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-29T10:29:45.177903+00:00",
+    "timestamp": "2026-04-29T15:26:16.409731+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-29T14:05:02.121429+00:00",
+    "timestamp": "2026-04-29T19:01:33.353257+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-29T17:40:19.064954+00:00",
+    "timestamp": "2026-04-29T22:36:50.296782+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-29T21:15:36.008480+00:00",
+    "timestamp": "2026-04-30T02:12:07.240308+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-30T00:50:52.952005+00:00",
+    "timestamp": "2026-04-30T05:47:24.183833+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-30T04:26:09.895531+00:00",
+    "timestamp": "2026-04-30T09:22:41.127359+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-30T08:01:26.839057+00:00",
+    "timestamp": "2026-04-30T12:57:58.070885+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-30T11:36:43.782582+00:00",
+    "timestamp": "2026-04-30T16:33:15.014410+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-30T15:12:00.726108+00:00",
+    "timestamp": "2026-04-30T20:08:31.957936+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-30T18:47:17.669633+00:00",
+    "timestamp": "2026-04-30T23:43:48.901461+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-04-30T22:22:34.613159+00:00",
+    "timestamp": "2026-05-01T03:19:05.844987+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-01T01:57:51.556685+00:00",
+    "timestamp": "2026-05-01T06:54:22.788513+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-01T05:33:08.500210+00:00",
+    "timestamp": "2026-05-01T10:29:39.732039+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-01T09:08:25.443736+00:00",
+    "timestamp": "2026-05-01T14:04:56.675565+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-01T12:43:42.387261+00:00",
+    "timestamp": "2026-05-01T17:40:13.619090+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-01T16:18:59.330787+00:00",
+    "timestamp": "2026-05-01T21:15:30.562616+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-01T19:54:16.274313+00:00",
+    "timestamp": "2026-05-02T00:50:47.506142+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-01T23:29:33.217837+00:00",
+    "timestamp": "2026-05-02T04:26:04.449667+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-02T03:04:50.161363+00:00",
+    "timestamp": "2026-05-02T08:01:21.393193+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-02T06:40:07.104888+00:00",
+    "timestamp": "2026-05-02T11:36:38.336718+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-02T10:15:24.048414+00:00",
+    "timestamp": "2026-05-02T15:11:55.280244+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-02T13:50:40.991940+00:00",
+    "timestamp": "2026-05-02T18:47:12.223770+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-02T17:25:57.935465+00:00",
+    "timestamp": "2026-05-02T22:22:29.167295+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-02T21:01:14.878991+00:00",
+    "timestamp": "2026-05-03T01:57:46.110821+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-03T00:36:31.822516+00:00",
+    "timestamp": "2026-05-03T05:33:03.054346+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-03T04:11:48.766042+00:00",
+    "timestamp": "2026-05-03T09:08:19.997872+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-03T07:47:05.709568+00:00",
+    "timestamp": "2026-05-03T12:43:36.941398+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-03T11:22:22.653093+00:00",
+    "timestamp": "2026-05-03T16:18:53.884923+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-03T14:57:39.596619+00:00",
+    "timestamp": "2026-05-03T19:54:10.828449+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-03T18:32:56.540144+00:00",
+    "timestamp": "2026-05-03T23:29:27.771974+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-03T22:08:13.483670+00:00",
+    "timestamp": "2026-05-04T03:04:44.715500+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-04T01:43:30.427196+00:00",
+    "timestamp": "2026-05-04T06:40:01.659026+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-04T05:18:47.370721+00:00",
+    "timestamp": "2026-05-04T10:15:18.602551+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-04T08:54:04.314247+00:00",
+    "timestamp": "2026-05-04T13:50:35.546076+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-04T12:29:21.257772+00:00",
+    "timestamp": "2026-05-04T17:25:52.489601+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-04T16:04:38.201298+00:00",
+    "timestamp": "2026-05-04T21:01:09.433127+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-04T19:39:55.144824+00:00",
+    "timestamp": "2026-05-05T00:36:26.376653+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-04T23:15:12.088349+00:00",
+    "timestamp": "2026-05-05T04:11:43.320178+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-05T02:50:29.031875+00:00",
+    "timestamp": "2026-05-05T07:47:00.263704+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-05T06:25:45.975400+00:00",
+    "timestamp": "2026-05-05T11:22:17.207229+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-05T10:01:02.918926+00:00",
+    "timestamp": "2026-05-05T14:57:34.150755+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-05T13:36:19.862451+00:00",
+    "timestamp": "2026-05-05T18:32:51.094280+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-05T17:11:36.805977+00:00",
+    "timestamp": "2026-05-05T22:08:08.037806+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-05T20:46:53.749503+00:00",
+    "timestamp": "2026-05-06T01:43:24.981332+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-06T00:22:10.693028+00:00",
+    "timestamp": "2026-05-06T05:18:41.924857+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-06T03:57:27.636554+00:00",
+    "timestamp": "2026-05-06T08:53:58.868383+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-06T07:32:44.580079+00:00",
+    "timestamp": "2026-05-06T12:29:15.811908+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-06T11:08:01.523606+00:00",
+    "timestamp": "2026-05-06T16:04:32.755434+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-06T14:43:18.467132+00:00",
+    "timestamp": "2026-05-06T19:39:49.698960+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-06T18:18:35.410658+00:00",
+    "timestamp": "2026-05-06T23:15:06.642485+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-06T21:53:52.354184+00:00",
+    "timestamp": "2026-05-07T02:50:23.586034+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-07T01:29:09.297710+00:00",
+    "timestamp": "2026-05-07T06:25:40.529564+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-07T05:04:26.241236+00:00",
+    "timestamp": "2026-05-07T10:00:57.473091+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-07T08:39:43.184762+00:00",
+    "timestamp": "2026-05-07T13:36:14.416617+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-07T12:15:00.128287+00:00",
+    "timestamp": "2026-05-07T17:11:31.360142+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-07T15:50:17.071813+00:00",
+    "timestamp": "2026-05-07T20:46:48.303668+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-07T19:25:34.015338+00:00",
+    "timestamp": "2026-05-08T00:22:05.247193+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-07T23:00:50.958864+00:00",
+    "timestamp": "2026-05-08T03:57:22.190719+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-08T02:36:07.902390+00:00",
+    "timestamp": "2026-05-08T07:32:39.134245+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-08T06:11:24.845915+00:00",
+    "timestamp": "2026-05-08T11:07:56.077770+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-08T09:46:41.789441+00:00",
+    "timestamp": "2026-05-08T14:43:13.021296+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-08T13:21:58.732966+00:00",
+    "timestamp": "2026-05-08T18:18:29.964821+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-08T16:57:15.676492+00:00",
+    "timestamp": "2026-05-08T21:53:46.908347+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-08T20:32:32.620018+00:00",
+    "timestamp": "2026-05-09T01:29:03.851873+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-09T00:07:49.563543+00:00",
+    "timestamp": "2026-05-09T05:04:20.795398+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-09T03:43:06.507070+00:00",
+    "timestamp": "2026-05-09T08:39:37.738924+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-09T07:18:23.450595+00:00",
+    "timestamp": "2026-05-09T12:14:54.682449+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-09T10:53:40.394121+00:00",
+    "timestamp": "2026-05-09T15:50:11.625975+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-09T14:28:57.337647+00:00",
+    "timestamp": "2026-05-09T19:25:28.569501+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-09T18:04:14.281172+00:00",
+    "timestamp": "2026-05-09T23:00:45.513026+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-09T21:39:31.224698+00:00",
+    "timestamp": "2026-05-10T02:36:02.456553+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-10T01:14:48.168223+00:00",
+    "timestamp": "2026-05-10T06:11:19.400078+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-10T04:50:05.111749+00:00",
+    "timestamp": "2026-05-10T09:46:36.343604+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-10T08:25:22.055275+00:00",
+    "timestamp": "2026-05-10T13:21:53.287130+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-10T12:00:38.998800+00:00",
+    "timestamp": "2026-05-10T16:57:10.230655+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-10T15:35:55.942326+00:00",
+    "timestamp": "2026-05-10T20:32:27.174181+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-10T19:11:12.885851+00:00",
+    "timestamp": "2026-05-11T00:07:44.117706+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-10T22:46:29.829377+00:00",
+    "timestamp": "2026-05-11T03:43:01.061232+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-11T02:21:46.772902+00:00",
+    "timestamp": "2026-05-11T07:18:18.004758+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-11T05:57:03.716428+00:00",
+    "timestamp": "2026-05-11T10:53:34.948284+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-11T09:32:20.659954+00:00",
+    "timestamp": "2026-05-11T14:28:51.891810+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-11T13:07:37.603479+00:00",
+    "timestamp": "2026-05-11T18:04:08.835335+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-11T16:42:54.547005+00:00",
+    "timestamp": "2026-05-11T21:39:25.778861+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-11T20:18:11.490531+00:00",
+    "timestamp": "2026-05-12T01:14:42.722386+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-11T23:53:28.434057+00:00",
+    "timestamp": "2026-05-12T04:49:59.665912+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-12T03:28:45.377583+00:00",
+    "timestamp": "2026-05-12T08:25:16.609438+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-12T07:04:02.321108+00:00",
+    "timestamp": "2026-05-12T12:00:33.552963+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-12T10:39:19.264634+00:00",
+    "timestamp": "2026-05-12T15:35:50.496489+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-12T14:14:36.208159+00:00",
+    "timestamp": "2026-05-12T19:11:07.440014+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-12T17:49:53.151685+00:00",
+    "timestamp": "2026-05-12T22:46:24.383541+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-12T21:25:10.095211+00:00",
+    "timestamp": "2026-05-13T02:21:41.327067+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-13T01:00:27.038736+00:00",
+    "timestamp": "2026-05-13T05:56:58.270592+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-13T04:35:43.982262+00:00",
+    "timestamp": "2026-05-13T09:32:15.214118+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-13T08:11:00.925787+00:00",
+    "timestamp": "2026-05-13T13:07:32.157643+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-13T11:46:17.869313+00:00",
+    "timestamp": "2026-05-13T16:42:49.101169+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-13T15:21:34.812839+00:00",
+    "timestamp": "2026-05-13T20:18:06.044695+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-13T18:56:51.756364+00:00",
+    "timestamp": "2026-05-13T23:53:22.988221+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-13T22:32:08.699890+00:00",
+    "timestamp": "2026-05-14T03:28:39.931747+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-14T02:07:25.643415+00:00",
+    "timestamp": "2026-05-14T07:03:56.875272+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-14T05:42:42.586941+00:00",
+    "timestamp": "2026-05-14T10:39:13.818798+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-14T09:17:59.530467+00:00",
+    "timestamp": "2026-05-14T14:14:30.762324+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-14T12:53:16.473992+00:00",
+    "timestamp": "2026-05-14T17:49:47.705849+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-14T16:28:33.417518+00:00",
+    "timestamp": "2026-05-14T21:25:04.649375+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-14T20:03:50.361043+00:00",
+    "timestamp": "2026-05-15T01:00:21.592900+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-14T23:39:07.304569+00:00",
+    "timestamp": "2026-05-15T04:35:38.536427+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-15T03:14:24.248095+00:00",
+    "timestamp": "2026-05-15T08:10:55.479953+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-15T06:49:41.191619+00:00",
+    "timestamp": "2026-05-15T11:46:12.423478+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-15T10:24:58.135145+00:00",
+    "timestamp": "2026-05-15T15:21:29.367004+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-15T14:00:15.078671+00:00",
+    "timestamp": "2026-05-15T18:56:46.310529+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-15T17:35:32.022197+00:00",
+    "timestamp": "2026-05-15T22:32:03.254054+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-15T21:10:48.965723+00:00",
+    "timestamp": "2026-05-16T02:07:20.197580+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-16T00:46:05.909248+00:00",
+    "timestamp": "2026-05-16T05:42:37.141106+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-16T04:21:22.852774+00:00",
+    "timestamp": "2026-05-16T09:17:54.084631+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-16T07:56:39.796299+00:00",
+    "timestamp": "2026-05-16T12:53:11.028156+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-16T11:31:56.739825+00:00",
+    "timestamp": "2026-05-16T16:28:27.971682+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-16T15:07:13.683350+00:00",
+    "timestamp": "2026-05-16T20:03:44.915207+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-16T18:42:30.626876+00:00",
+    "timestamp": "2026-05-16T23:39:01.858733+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-16T22:17:47.570401+00:00",
+    "timestamp": "2026-05-17T03:14:18.802259+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-17T01:53:04.513926+00:00",
+    "timestamp": "2026-05-17T06:49:35.745784+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-17T05:28:21.457452+00:00",
+    "timestamp": "2026-05-17T10:24:52.689310+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-17T09:03:38.400977+00:00",
+    "timestamp": "2026-05-17T14:00:09.632835+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-17T12:38:55.344503+00:00",
+    "timestamp": "2026-05-17T17:35:26.576361+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-17T16:14:12.288029+00:00",
+    "timestamp": "2026-05-17T21:10:43.519888+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-17T19:49:29.231554+00:00",
+    "timestamp": "2026-05-18T00:46:00.463413+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-17T23:24:46.175080+00:00",
+    "timestamp": "2026-05-18T04:21:17.406939+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-18T03:00:03.118606+00:00",
+    "timestamp": "2026-05-18T07:56:34.350464+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-18T06:35:20.062132+00:00",
+    "timestamp": "2026-05-18T11:31:51.293990+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-18T10:10:37.005658+00:00",
+    "timestamp": "2026-05-18T15:07:08.237516+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-18T13:45:53.949183+00:00",
+    "timestamp": "2026-05-18T18:42:25.181041+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-18T17:21:10.892709+00:00",
+    "timestamp": "2026-05-18T22:17:42.124567+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-18T20:56:27.836234+00:00",
+    "timestamp": "2026-05-19T01:52:59.068092+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-19T00:31:44.779760+00:00",
+    "timestamp": "2026-05-19T05:28:16.011618+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-19T04:07:01.723286+00:00",
+    "timestamp": "2026-05-19T09:03:32.955144+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-19T07:42:18.666811+00:00",
+    "timestamp": "2026-05-19T12:38:49.898669+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-19T11:17:35.610362+00:00",
+    "timestamp": "2026-05-19T16:14:06.842195+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-19T14:52:52.553890+00:00",
+    "timestamp": "2026-05-19T19:49:23.785721+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-19T18:28:09.497417+00:00",
+    "timestamp": "2026-05-19T23:24:40.729247+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-19T22:03:26.440943+00:00",
+    "timestamp": "2026-05-20T02:59:57.672773+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-20T01:38:43.384468+00:00",
+    "timestamp": "2026-05-20T06:35:14.616298+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-20T05:14:00.327994+00:00",
+    "timestamp": "2026-05-20T10:10:31.559824+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-20T08:49:17.271519+00:00",
+    "timestamp": "2026-05-20T13:45:48.503349+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-20T12:24:34.215044+00:00",
+    "timestamp": "2026-05-20T17:21:05.446874+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-20T15:59:51.158570+00:00",
+    "timestamp": "2026-05-20T20:56:22.390400+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-20T19:35:08.102095+00:00",
+    "timestamp": "2026-05-21T00:31:39.333925+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-20T23:10:25.045621+00:00",
+    "timestamp": "2026-05-21T04:06:56.277451+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-21T02:45:41.989146+00:00",
+    "timestamp": "2026-05-21T07:42:13.220976+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-21T06:20:58.932672+00:00",
+    "timestamp": "2026-05-21T11:17:30.164502+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-21T09:56:15.876198+00:00",
+    "timestamp": "2026-05-21T14:52:47.108028+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-21T13:31:32.819723+00:00",
+    "timestamp": "2026-05-21T18:28:04.051553+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-21T17:06:49.763249+00:00",
+    "timestamp": "2026-05-21T22:03:20.995079+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-21T20:42:06.706774+00:00",
+    "timestamp": "2026-05-22T01:38:37.938604+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-22T00:17:23.650300+00:00",
+    "timestamp": "2026-05-22T05:13:54.882130+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-22T03:52:40.593825+00:00",
+    "timestamp": "2026-05-22T08:49:11.825655+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-22T07:27:57.537350+00:00",
+    "timestamp": "2026-05-22T12:24:28.769181+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-22T11:03:14.480876+00:00",
+    "timestamp": "2026-05-22T15:59:45.712706+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-22T14:38:31.424401+00:00",
+    "timestamp": "2026-05-22T19:35:02.656231+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-22T18:13:48.367927+00:00",
+    "timestamp": "2026-05-22T23:10:19.599757+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-22T21:49:05.311452+00:00",
+    "timestamp": "2026-05-23T02:45:36.543282+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-23T01:24:22.254978+00:00",
+    "timestamp": "2026-05-23T06:20:53.486809+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-23T04:59:39.198504+00:00",
+    "timestamp": "2026-05-23T09:56:10.430335+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-23T08:34:56.142029+00:00",
+    "timestamp": "2026-05-23T13:31:27.373860+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-23T12:10:13.085555+00:00",
+    "timestamp": "2026-05-23T17:06:44.317386+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-23T15:45:30.029080+00:00",
+    "timestamp": "2026-05-23T20:42:01.260911+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-23T19:20:46.972606+00:00",
+    "timestamp": "2026-05-24T00:17:18.204437+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-23T22:56:03.916132+00:00",
+    "timestamp": "2026-05-24T03:52:35.147963+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-24T02:31:20.859657+00:00",
+    "timestamp": "2026-05-24T07:27:52.091488+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-24T06:06:37.803183+00:00",
+    "timestamp": "2026-05-24T11:03:09.035014+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-24T09:41:54.746708+00:00",
+    "timestamp": "2026-05-24T14:38:25.978539+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-24T13:17:11.690234+00:00",
+    "timestamp": "2026-05-24T18:13:42.922065+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-24T16:52:28.633760+00:00",
+    "timestamp": "2026-05-24T21:48:59.865591+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-24T20:27:45.577285+00:00",
+    "timestamp": "2026-05-25T01:24:16.809116+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-25T00:03:02.520811+00:00",
+    "timestamp": "2026-05-25T04:59:33.752642+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-25T03:38:19.464336+00:00",
+    "timestamp": "2026-05-25T08:34:50.696167+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-25T07:13:36.407862+00:00",
+    "timestamp": "2026-05-25T12:10:07.639693+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-25T10:48:53.351388+00:00",
+    "timestamp": "2026-05-25T15:45:24.583219+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-25T14:24:10.294913+00:00",
+    "timestamp": "2026-05-25T19:20:41.526744+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-25T17:59:27.238439+00:00",
+    "timestamp": "2026-05-25T22:55:58.470270+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-25T21:34:44.181964+00:00",
+    "timestamp": "2026-05-26T02:31:15.413795+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-26T01:10:01.125490+00:00",
+    "timestamp": "2026-05-26T06:06:32.357321+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-26T04:45:18.069016+00:00",
+    "timestamp": "2026-05-26T09:41:49.300847+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-26T08:20:35.012541+00:00",
+    "timestamp": "2026-05-26T13:17:06.244372+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-26T11:55:51.956067+00:00",
+    "timestamp": "2026-05-26T16:52:23.187898+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-26T15:31:08.899592+00:00",
+    "timestamp": "2026-05-26T20:27:40.131423+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-26T19:06:25.843118+00:00",
+    "timestamp": "2026-05-27T00:02:57.074949+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-26T22:41:42.786644+00:00",
+    "timestamp": "2026-05-27T03:38:14.018476+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-27T02:16:59.730169+00:00",
+    "timestamp": "2026-05-27T07:13:30.962001+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-27T05:52:16.673695+00:00",
+    "timestamp": "2026-05-27T10:48:47.905526+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-27T09:27:33.617220+00:00",
+    "timestamp": "2026-05-27T14:24:04.849052+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-27T13:02:50.560745+00:00",
+    "timestamp": "2026-05-27T17:59:21.792577+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-27T16:38:07.504270+00:00",
+    "timestamp": "2026-05-27T21:34:38.736102+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-27T20:13:24.447796+00:00",
+    "timestamp": "2026-05-28T01:09:55.679628+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-27T23:48:41.391322+00:00",
+    "timestamp": "2026-05-28T04:45:12.623154+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-28T03:23:58.334847+00:00",
+    "timestamp": "2026-05-28T08:20:29.566679+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-28T06:59:15.278373+00:00",
+    "timestamp": "2026-05-28T11:55:46.510205+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-28T10:34:32.221898+00:00",
+    "timestamp": "2026-05-28T15:31:03.453730+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-28T14:09:49.165423+00:00",
+    "timestamp": "2026-05-28T19:06:20.397256+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-28T17:45:06.108949+00:00",
+    "timestamp": "2026-05-28T22:41:37.340782+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-28T21:20:23.052474+00:00",
+    "timestamp": "2026-05-29T02:16:54.284307+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-29T00:55:39.996000+00:00",
+    "timestamp": "2026-05-29T05:52:11.227833+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-29T04:30:56.939525+00:00",
+    "timestamp": "2026-05-29T09:27:28.171358+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-29T08:06:13.883051+00:00",
+    "timestamp": "2026-05-29T13:02:45.114884+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-29T11:41:30.826577+00:00",
+    "timestamp": "2026-05-29T16:38:02.058410+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-29T15:16:47.770102+00:00",
+    "timestamp": "2026-05-29T20:13:19.001935+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-29T18:52:04.713627+00:00",
+    "timestamp": "2026-05-29T23:48:35.945461+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-29T22:27:21.657152+00:00",
+    "timestamp": "2026-05-30T03:23:52.888987+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-30T02:02:38.600678+00:00",
+    "timestamp": "2026-05-30T06:59:09.832512+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-30T05:37:55.544204+00:00",
+    "timestamp": "2026-05-30T10:34:26.776038+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-30T09:13:12.487729+00:00",
+    "timestamp": "2026-05-30T14:09:43.719564+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-30T12:48:29.431254+00:00",
+    "timestamp": "2026-05-30T17:45:00.663090+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-30T16:23:46.374779+00:00",
+    "timestamp": "2026-05-30T21:20:17.606615+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-30T19:59:03.318305+00:00",
+    "timestamp": "2026-05-31T00:55:34.550141+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-30T23:34:20.261831+00:00",
+    "timestamp": "2026-05-31T04:30:51.493667+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-31T03:09:37.205356+00:00",
+    "timestamp": "2026-05-31T08:06:08.437192+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-31T06:44:54.148882+00:00",
+    "timestamp": "2026-05-31T11:41:25.380718+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-31T10:20:11.092407+00:00",
+    "timestamp": "2026-05-31T15:16:42.324243+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-31T13:55:28.035933+00:00",
+    "timestamp": "2026-05-31T18:51:59.267769+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-31T17:30:44.979459+00:00",
+    "timestamp": "2026-05-31T22:27:16.211294+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-05-31T21:06:01.922984+00:00",
+    "timestamp": "2026-06-01T02:02:33.154819+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-01T00:41:18.866510+00:00",
+    "timestamp": "2026-06-01T05:37:50.098345+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-01T04:16:35.810035+00:00",
+    "timestamp": "2026-06-01T09:13:07.041870+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-01T07:51:52.753563+00:00",
+    "timestamp": "2026-06-01T12:48:23.985396+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-01T11:27:09.697089+00:00",
+    "timestamp": "2026-06-01T16:23:40.928923+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-01T15:02:26.640615+00:00",
+    "timestamp": "2026-06-01T19:58:57.872448+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-01T18:37:43.584140+00:00",
+    "timestamp": "2026-06-01T23:34:14.815974+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-01T22:13:00.527665+00:00",
+    "timestamp": "2026-06-02T03:09:31.759499+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-02T01:48:17.471191+00:00",
+    "timestamp": "2026-06-02T06:44:48.703025+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-02T05:23:34.414716+00:00",
+    "timestamp": "2026-06-02T10:20:05.646550+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-02T08:58:51.358242+00:00",
+    "timestamp": "2026-06-02T13:55:22.590076+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-02T12:34:08.301768+00:00",
+    "timestamp": "2026-06-02T17:30:39.533601+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-02T16:09:25.245293+00:00",
+    "timestamp": "2026-06-02T21:05:56.477126+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-02T19:44:42.188819+00:00",
+    "timestamp": "2026-06-03T00:41:13.420652+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-02T23:19:59.132344+00:00",
+    "timestamp": "2026-06-03T04:16:30.364177+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-03T02:55:16.075869+00:00",
+    "timestamp": "2026-06-03T07:51:47.307703+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-03T06:30:33.019395+00:00",
+    "timestamp": "2026-06-03T11:27:04.251229+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-03T10:05:49.962920+00:00",
+    "timestamp": "2026-06-03T15:02:21.194754+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-03T13:41:06.906446+00:00",
+    "timestamp": "2026-06-03T18:37:38.138280+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-03T17:16:23.849971+00:00",
+    "timestamp": "2026-06-03T22:12:55.081805+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-03T20:51:40.793497+00:00",
+    "timestamp": "2026-06-04T01:48:12.025331+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-04T00:26:57.737023+00:00",
+    "timestamp": "2026-06-04T05:23:28.968857+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-04T04:02:14.680548+00:00",
+    "timestamp": "2026-06-04T08:58:45.912382+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-04T07:37:31.624074+00:00",
+    "timestamp": "2026-06-04T12:34:02.855908+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-04T11:12:48.567599+00:00",
+    "timestamp": "2026-06-04T16:09:19.799433+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-04T14:48:05.511125+00:00",
+    "timestamp": "2026-06-04T19:44:36.742959+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-04T18:23:22.454651+00:00",
+    "timestamp": "2026-06-04T23:19:53.686485+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-04T21:58:39.398176+00:00",
+    "timestamp": "2026-06-05T02:55:10.630010+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-05T01:33:56.341702+00:00",
+    "timestamp": "2026-06-05T06:30:27.573536+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-05T05:09:13.285227+00:00",
+    "timestamp": "2026-06-05T10:05:44.517061+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-05T08:44:30.228753+00:00",
+    "timestamp": "2026-06-05T13:41:01.460587+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-05T12:19:47.172279+00:00",
+    "timestamp": "2026-06-05T17:16:18.404113+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-05T15:55:04.115804+00:00",
+    "timestamp": "2026-06-05T20:51:35.347638+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-05T19:30:21.059330+00:00",
+    "timestamp": "2026-06-06T00:26:52.291164+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-05T23:05:38.002855+00:00",
+    "timestamp": "2026-06-06T04:02:09.234689+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-06T02:40:54.946381+00:00",
+    "timestamp": "2026-06-06T07:37:26.178215+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-06T06:16:11.889907+00:00",
+    "timestamp": "2026-06-06T11:12:43.121741+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-06T09:51:28.833432+00:00",
+    "timestamp": "2026-06-06T14:48:00.065265+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-06T13:26:45.776958+00:00",
+    "timestamp": "2026-06-06T18:23:17.008791+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-06T17:02:02.720483+00:00",
+    "timestamp": "2026-06-06T21:58:33.952316+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-06T20:37:19.664009+00:00",
+    "timestamp": "2026-06-07T01:33:50.895842+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-07T00:12:36.607535+00:00",
+    "timestamp": "2026-06-07T05:09:07.839368+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-07T03:47:53.551060+00:00",
+    "timestamp": "2026-06-07T08:44:24.782893+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-07T07:23:10.494586+00:00",
+    "timestamp": "2026-06-07T12:19:41.726419+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-07T10:58:27.438111+00:00",
+    "timestamp": "2026-06-07T15:54:58.669944+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-07T14:33:44.381637+00:00",
+    "timestamp": "2026-06-07T19:30:15.613470+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-07T18:09:01.325162+00:00",
+    "timestamp": "2026-06-07T23:05:32.556995+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-07T21:44:18.268688+00:00",
+    "timestamp": "2026-06-08T02:40:49.500521+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-08T01:19:35.212214+00:00",
+    "timestamp": "2026-06-08T06:16:06.444046+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-08T04:54:52.155739+00:00",
+    "timestamp": "2026-06-08T09:51:23.387571+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-08T08:30:09.099265+00:00",
+    "timestamp": "2026-06-08T13:26:40.331097+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-08T12:05:26.042790+00:00",
+    "timestamp": "2026-06-08T17:01:57.274623+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-08T15:40:42.986316+00:00",
+    "timestamp": "2026-06-08T20:37:14.218149+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-08T19:15:59.929842+00:00",
+    "timestamp": "2026-06-09T00:12:31.161675+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-08T22:51:16.873367+00:00",
+    "timestamp": "2026-06-09T03:47:48.105200+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-09T02:26:33.816893+00:00",
+    "timestamp": "2026-06-09T07:23:05.048725+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-09T06:01:50.760418+00:00",
+    "timestamp": "2026-06-09T10:58:21.992250+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-09T09:37:07.703944+00:00",
+    "timestamp": "2026-06-09T14:33:38.935776+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-09T13:12:24.647470+00:00",
+    "timestamp": "2026-06-09T18:08:55.879302+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-09T16:47:41.590995+00:00",
+    "timestamp": "2026-06-09T21:44:12.822827+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-09T20:22:58.534521+00:00",
+    "timestamp": "2026-06-10T01:19:29.766353+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-09T23:58:15.478046+00:00",
+    "timestamp": "2026-06-10T04:54:46.709878+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-10T03:33:32.421572+00:00",
+    "timestamp": "2026-06-10T08:30:03.653404+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-10T07:08:49.365098+00:00",
+    "timestamp": "2026-06-10T12:05:20.596930+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-10T10:44:06.308622+00:00",
+    "timestamp": "2026-06-10T15:40:37.540455+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-10T14:19:23.252148+00:00",
+    "timestamp": "2026-06-10T19:15:54.483981+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-10T17:54:40.195673+00:00",
+    "timestamp": "2026-06-10T22:51:11.427506+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-10T21:29:57.139199+00:00",
+    "timestamp": "2026-06-11T02:26:28.371032+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-11T01:05:14.082725+00:00",
+    "timestamp": "2026-06-11T06:01:45.314557+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-11T04:40:31.026250+00:00",
+    "timestamp": "2026-06-11T09:37:02.258082+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-11T08:15:47.969776+00:00",
+    "timestamp": "2026-06-11T13:12:19.201608+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-11T11:51:04.913301+00:00",
+    "timestamp": "2026-06-11T16:47:36.145133+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-11T15:26:21.856827+00:00",
+    "timestamp": "2026-06-11T20:22:53.088659+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-11T19:01:38.800353+00:00",
+    "timestamp": "2026-06-11T23:58:10.032185+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-11T22:36:55.743878+00:00",
+    "timestamp": "2026-06-12T03:33:26.975710+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-12T02:12:12.687404+00:00",
+    "timestamp": "2026-06-12T07:08:43.919236+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-12T05:47:29.630929+00:00",
+    "timestamp": "2026-06-12T10:44:00.862782+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-12T09:22:46.574455+00:00",
+    "timestamp": "2026-06-12T14:19:17.806314+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-12T12:58:03.517981+00:00",
+    "timestamp": "2026-06-12T17:54:34.749841+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-12T16:33:20.461506+00:00",
+    "timestamp": "2026-06-12T21:29:51.693366+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-12T20:08:37.405031+00:00",
+    "timestamp": "2026-06-13T01:05:08.636892+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-12T23:43:54.348556+00:00",
+    "timestamp": "2026-06-13T04:40:25.580417+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-13T03:19:11.292082+00:00",
+    "timestamp": "2026-06-13T08:15:42.523943+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-13T06:54:28.235607+00:00",
+    "timestamp": "2026-06-13T11:50:59.467468+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-13T10:29:45.179133+00:00",
+    "timestamp": "2026-06-13T15:26:16.410994+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-13T14:05:02.122659+00:00",
+    "timestamp": "2026-06-13T19:01:33.354520+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-13T17:40:19.066184+00:00",
+    "timestamp": "2026-06-13T22:36:50.298045+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-13T21:15:36.009710+00:00",
+    "timestamp": "2026-06-14T02:12:07.241571+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-14T00:50:52.953235+00:00",
+    "timestamp": "2026-06-14T05:47:24.185096+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-14T04:26:09.896761+00:00",
+    "timestamp": "2026-06-14T09:22:41.128622+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-14T08:01:26.840287+00:00",
+    "timestamp": "2026-06-14T12:57:58.072148+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-14T11:36:43.783811+00:00",
+    "timestamp": "2026-06-14T16:33:15.015673+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-14T15:12:00.727337+00:00",
+    "timestamp": "2026-06-14T20:08:31.959200+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-14T18:47:17.670862+00:00",
+    "timestamp": "2026-06-14T23:43:48.902725+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-14T22:22:34.614388+00:00",
+    "timestamp": "2026-06-15T03:19:05.846250+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-15T01:57:51.557914+00:00",
+    "timestamp": "2026-06-15T06:54:22.789776+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-15T05:33:08.501439+00:00",
+    "timestamp": "2026-06-15T10:29:39.733301+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-15T09:08:25.444965+00:00",
+    "timestamp": "2026-06-15T14:04:56.676827+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-15T12:43:42.388490+00:00",
+    "timestamp": "2026-06-15T17:40:13.620352+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-15T16:18:59.332016+00:00",
+    "timestamp": "2026-06-15T21:15:30.563878+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-15T19:54:16.275542+00:00",
+    "timestamp": "2026-06-16T00:50:47.507404+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-15T23:29:33.219067+00:00",
+    "timestamp": "2026-06-16T04:26:04.450929+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-16T03:04:50.162592+00:00",
+    "timestamp": "2026-06-16T08:01:21.394455+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-16T06:40:07.106117+00:00",
+    "timestamp": "2026-06-16T11:36:38.337980+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-16T10:15:24.049643+00:00",
+    "timestamp": "2026-06-16T15:11:55.281506+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-16T13:50:40.993169+00:00",
+    "timestamp": "2026-06-16T18:47:12.225032+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-16T17:25:57.936694+00:00",
+    "timestamp": "2026-06-16T22:22:29.168557+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-16T21:01:14.880221+00:00",
+    "timestamp": "2026-06-17T01:57:46.112084+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-17T00:36:31.823746+00:00",
+    "timestamp": "2026-06-17T05:33:03.055609+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-17T04:11:48.767272+00:00",
+    "timestamp": "2026-06-17T09:08:19.999135+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-17T07:47:05.710798+00:00",
+    "timestamp": "2026-06-17T12:43:36.942661+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-17T11:22:22.654323+00:00",
+    "timestamp": "2026-06-17T16:18:53.886186+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-17T14:57:39.597849+00:00",
+    "timestamp": "2026-06-17T19:54:10.829711+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-17T18:32:56.541374+00:00",
+    "timestamp": "2026-06-17T23:29:27.773237+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-17T22:08:13.484900+00:00",
+    "timestamp": "2026-06-18T03:04:44.716763+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-18T01:43:30.428426+00:00",
+    "timestamp": "2026-06-18T06:40:01.660290+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-18T05:18:47.371951+00:00",
+    "timestamp": "2026-06-18T10:15:18.603815+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-18T08:54:04.315477+00:00",
+    "timestamp": "2026-06-18T13:50:35.547341+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-18T12:29:21.259002+00:00",
+    "timestamp": "2026-06-18T17:25:52.490866+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-18T16:04:38.202528+00:00",
+    "timestamp": "2026-06-18T21:01:09.434392+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-18T19:39:55.146054+00:00",
+    "timestamp": "2026-06-19T00:36:26.377917+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-18T23:15:12.089579+00:00",
+    "timestamp": "2026-06-19T04:11:43.321442+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-19T02:50:29.033105+00:00",
+    "timestamp": "2026-06-19T07:47:00.264968+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-19T06:25:45.976630+00:00",
+    "timestamp": "2026-06-19T11:22:17.208493+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-19T10:01:02.920156+00:00",
+    "timestamp": "2026-06-19T14:57:34.152019+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-19T13:36:19.863681+00:00",
+    "timestamp": "2026-06-19T18:32:51.095544+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-19T17:11:36.807207+00:00",
+    "timestamp": "2026-06-19T22:08:08.039069+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-19T20:46:53.750733+00:00",
+    "timestamp": "2026-06-20T01:43:24.982595+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-20T00:22:10.694258+00:00",
+    "timestamp": "2026-06-20T05:18:41.926120+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-20T03:57:27.637784+00:00",
+    "timestamp": "2026-06-20T08:53:58.869646+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-20T07:32:44.581309+00:00",
+    "timestamp": "2026-06-20T12:29:15.813171+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-20T11:08:01.524835+00:00",
+    "timestamp": "2026-06-20T16:04:32.756697+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-20T14:43:18.468361+00:00",
+    "timestamp": "2026-06-20T19:39:49.700223+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-20T18:18:35.411886+00:00",
+    "timestamp": "2026-06-20T23:15:06.643749+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-20T21:53:52.355412+00:00",
+    "timestamp": "2026-06-21T02:50:23.587275+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-21T01:29:09.298936+00:00",
+    "timestamp": "2026-06-21T06:25:40.530800+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-21T05:04:26.242462+00:00",
+    "timestamp": "2026-06-21T10:00:57.474326+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-21T08:39:43.185988+00:00",
+    "timestamp": "2026-06-21T13:36:14.417852+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-21T12:15:00.129513+00:00",
+    "timestamp": "2026-06-21T17:11:31.361377+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-21T15:50:17.073039+00:00",
+    "timestamp": "2026-06-21T20:46:48.304902+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-21T19:25:34.016564+00:00",
+    "timestamp": "2026-06-22T00:22:05.248427+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-21T23:00:50.960090+00:00",
+    "timestamp": "2026-06-22T03:57:22.191953+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-22T02:36:07.903616+00:00",
+    "timestamp": "2026-06-22T07:32:39.135479+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-22T06:11:24.847141+00:00",
+    "timestamp": "2026-06-22T11:07:56.079004+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-22T09:46:41.790667+00:00",
+    "timestamp": "2026-06-22T14:43:13.022530+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-22T13:21:58.734192+00:00",
+    "timestamp": "2026-06-22T18:18:29.966055+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-22T16:57:15.677718+00:00",
+    "timestamp": "2026-06-22T21:53:46.909581+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-22T20:32:32.621244+00:00",
+    "timestamp": "2026-06-23T01:29:03.853106+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-23T00:07:49.564769+00:00",
+    "timestamp": "2026-06-23T05:04:20.796631+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-23T03:43:06.508295+00:00",
+    "timestamp": "2026-06-23T08:39:37.740157+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-23T07:18:23.451820+00:00",
+    "timestamp": "2026-06-23T12:14:54.683682+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-23T10:53:40.395346+00:00",
+    "timestamp": "2026-06-23T15:50:11.627208+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-23T14:28:57.338872+00:00",
+    "timestamp": "2026-06-23T19:25:28.570734+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-23T18:04:14.282397+00:00",
+    "timestamp": "2026-06-23T23:00:45.514259+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-23T21:39:31.225923+00:00",
+    "timestamp": "2026-06-24T02:36:02.457785+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-24T01:14:48.169447+00:00",
+    "timestamp": "2026-06-24T06:11:19.401310+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-24T04:50:05.112973+00:00",
+    "timestamp": "2026-06-24T09:46:36.344836+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-24T08:25:22.056499+00:00",
+    "timestamp": "2026-06-24T13:21:53.288361+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-24T12:00:39.000024+00:00",
+    "timestamp": "2026-06-24T16:57:10.231886+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-24T15:35:55.943550+00:00",
+    "timestamp": "2026-06-24T20:32:27.175412+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-24T19:11:12.887076+00:00",
+    "timestamp": "2026-06-25T00:07:44.118938+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-24T22:46:29.830602+00:00",
+    "timestamp": "2026-06-25T03:43:01.062464+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-25T02:21:46.774145+00:00",
+    "timestamp": "2026-06-25T07:18:18.005989+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-25T05:57:03.717675+00:00",
+    "timestamp": "2026-06-25T10:53:34.949515+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-25T09:32:20.661201+00:00",
+    "timestamp": "2026-06-25T14:28:51.893041+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-25T13:07:37.604727+00:00",
+    "timestamp": "2026-06-25T18:04:08.836565+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-25T16:42:54.548253+00:00",
+    "timestamp": "2026-06-25T21:39:25.780091+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-25T20:18:11.491778+00:00",
+    "timestamp": "2026-06-26T01:14:42.723616+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-25T23:53:28.435304+00:00",
+    "timestamp": "2026-06-26T04:49:59.667142+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-26T03:28:45.378830+00:00",
+    "timestamp": "2026-06-26T08:25:16.610668+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-26T07:04:02.322355+00:00",
+    "timestamp": "2026-06-26T12:00:33.554193+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-26T10:39:19.265881+00:00",
+    "timestamp": "2026-06-26T15:35:50.497719+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-26T14:14:36.209407+00:00",
+    "timestamp": "2026-06-26T19:11:07.441244+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-26T17:49:53.152933+00:00",
+    "timestamp": "2026-06-26T22:46:24.384770+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-26T21:25:10.096458+00:00",
+    "timestamp": "2026-06-27T02:21:41.328296+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-27T01:00:27.039983+00:00",
+    "timestamp": "2026-06-27T05:56:58.271821+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-27T04:35:43.983509+00:00",
+    "timestamp": "2026-06-27T09:32:15.215347+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-27T08:11:00.927034+00:00",
+    "timestamp": "2026-06-27T13:07:32.158872+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-27T11:46:17.870560+00:00",
+    "timestamp": "2026-06-27T16:42:49.102398+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-27T15:21:34.814086+00:00",
+    "timestamp": "2026-06-27T20:18:06.045924+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-27T18:56:51.757611+00:00",
+    "timestamp": "2026-06-27T23:53:22.989449+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-27T22:32:08.701137+00:00",
+    "timestamp": "2026-06-28T03:28:39.932975+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-28T02:07:25.644662+00:00",
+    "timestamp": "2026-06-28T07:03:56.876500+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-28T05:42:42.588188+00:00",
+    "timestamp": "2026-06-28T10:39:13.820025+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-28T09:17:59.531714+00:00",
+    "timestamp": "2026-06-28T14:14:30.763551+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-28T12:53:16.475239+00:00",
+    "timestamp": "2026-06-28T17:49:47.707076+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-28T16:28:33.418765+00:00",
+    "timestamp": "2026-06-28T21:25:04.650602+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-28T20:03:50.362290+00:00",
+    "timestamp": "2026-06-29T01:00:21.594127+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-28T23:39:07.305816+00:00",
+    "timestamp": "2026-06-29T04:35:38.537653+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-29T03:14:24.249342+00:00",
+    "timestamp": "2026-06-29T08:10:55.481179+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-29T06:49:41.192867+00:00",
+    "timestamp": "2026-06-29T11:46:12.424704+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-29T10:24:58.136393+00:00",
+    "timestamp": "2026-06-29T15:21:29.368229+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-29T14:00:15.079918+00:00",
+    "timestamp": "2026-06-29T18:56:46.311754+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-29T17:35:32.023444+00:00",
+    "timestamp": "2026-06-29T22:32:03.255280+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-29T21:10:48.966970+00:00",
+    "timestamp": "2026-06-30T02:07:20.198807+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-30T00:46:05.910495+00:00",
+    "timestamp": "2026-06-30T05:42:37.142332+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-30T04:21:22.854021+00:00",
+    "timestamp": "2026-06-30T09:17:54.085858+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-30T07:56:39.797546+00:00",
+    "timestamp": "2026-06-30T12:53:11.029384+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-30T11:31:56.741072+00:00",
+    "timestamp": "2026-06-30T16:28:27.972910+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-30T15:07:13.684596+00:00",
+    "timestamp": "2026-06-30T20:03:44.916435+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-30T18:42:30.628122+00:00",
+    "timestamp": "2026-06-30T23:39:01.859961+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-06-30T22:17:47.571648+00:00",
+    "timestamp": "2026-07-01T03:14:18.803486+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-01T01:53:04.515173+00:00",
+    "timestamp": "2026-07-01T06:49:35.747011+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-01T05:28:21.458699+00:00",
+    "timestamp": "2026-07-01T10:24:52.690537+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-01T09:03:38.402224+00:00",
+    "timestamp": "2026-07-01T14:00:09.634062+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-01T12:38:55.345750+00:00",
+    "timestamp": "2026-07-01T17:35:26.577588+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-01T16:14:12.289276+00:00",
+    "timestamp": "2026-07-01T21:10:43.521114+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-01T19:49:29.232801+00:00",
+    "timestamp": "2026-07-02T00:46:00.464639+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-01T23:24:46.176326+00:00",
+    "timestamp": "2026-07-02T04:21:17.408165+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-02T03:00:03.119851+00:00",
+    "timestamp": "2026-07-02T07:56:34.351690+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-02T06:35:20.063377+00:00",
+    "timestamp": "2026-07-02T11:31:51.295215+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-02T10:10:37.006903+00:00",
+    "timestamp": "2026-07-02T15:07:08.238741+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-02T13:45:53.950428+00:00",
+    "timestamp": "2026-07-02T18:42:25.182266+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-02T17:21:10.893954+00:00",
+    "timestamp": "2026-07-02T22:17:42.125792+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-02T20:56:27.837479+00:00",
+    "timestamp": "2026-07-03T01:52:59.069317+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-03T00:31:44.781005+00:00",
+    "timestamp": "2026-07-03T05:28:16.012843+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-03T04:07:01.724531+00:00",
+    "timestamp": "2026-07-03T09:03:32.956369+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-03T07:42:18.668055+00:00",
+    "timestamp": "2026-07-03T12:38:49.899894+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-03T11:17:35.611581+00:00",
+    "timestamp": "2026-07-03T16:14:06.843419+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-03T14:52:52.555106+00:00",
+    "timestamp": "2026-07-03T19:49:23.786944+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-03T18:28:09.498632+00:00",
+    "timestamp": "2026-07-03T23:24:40.730470+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-03T22:03:26.442158+00:00",
+    "timestamp": "2026-07-04T02:59:57.673996+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-04T01:38:43.385683+00:00",
+    "timestamp": "2026-07-04T06:35:14.617521+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-04T05:14:00.329209+00:00",
+    "timestamp": "2026-07-04T10:10:31.561047+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-04T08:49:17.272734+00:00",
+    "timestamp": "2026-07-04T13:45:48.504571+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-04T12:24:34.216260+00:00",
+    "timestamp": "2026-07-04T17:21:05.448097+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-04T15:59:51.159786+00:00",
+    "timestamp": "2026-07-04T20:56:22.391623+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-04T19:35:08.103311+00:00",
+    "timestamp": "2026-07-05T00:31:39.335148+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-04T23:10:25.046836+00:00",
+    "timestamp": "2026-07-05T04:06:56.278674+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-05T02:45:41.990361+00:00",
+    "timestamp": "2026-07-05T07:42:13.222198+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-05T06:20:58.933887+00:00",
+    "timestamp": "2026-07-05T11:17:30.165724+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-05T09:56:15.877413+00:00",
+    "timestamp": "2026-07-05T14:52:47.109250+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-05T13:31:32.820938+00:00",
+    "timestamp": "2026-07-05T18:28:04.052775+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-05T17:06:49.764464+00:00",
+    "timestamp": "2026-07-05T22:03:20.996301+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-05T20:42:06.707989+00:00",
+    "timestamp": "2026-07-06T01:38:37.939825+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-06T00:17:23.651514+00:00",
+    "timestamp": "2026-07-06T05:13:54.883351+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-06T03:52:40.595040+00:00",
+    "timestamp": "2026-07-06T08:49:11.826876+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-06T07:27:57.538565+00:00",
+    "timestamp": "2026-07-06T12:24:28.770402+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-06T11:03:14.482091+00:00",
+    "timestamp": "2026-07-06T15:59:45.713928+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-06T14:38:31.425616+00:00",
+    "timestamp": "2026-07-06T19:35:02.657453+00:00",
     "level_m": 95.079,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-06T18:13:48.369142+00:00",
+    "timestamp": "2026-07-06T23:10:19.600978+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-06T21:49:05.312667+00:00",
+    "timestamp": "2026-07-07T02:45:36.544503+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-07T01:24:22.256193+00:00",
+    "timestamp": "2026-07-07T06:20:53.488029+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-07T04:59:39.199719+00:00",
+    "timestamp": "2026-07-07T09:56:10.431556+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-07T08:34:56.143244+00:00",
+    "timestamp": "2026-07-07T13:31:27.375081+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-07T12:10:13.086770+00:00",
+    "timestamp": "2026-07-07T17:06:44.318606+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-07T15:45:30.030296+00:00",
+    "timestamp": "2026-07-07T20:42:01.262131+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-07T19:20:46.973822+00:00",
+    "timestamp": "2026-07-08T00:17:18.205657+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-07T22:56:03.917348+00:00",
+    "timestamp": "2026-07-08T03:52:35.149183+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-08T02:31:20.860872+00:00",
+    "timestamp": "2026-07-08T07:27:52.092708+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-08T06:06:37.804398+00:00",
+    "timestamp": "2026-07-08T11:03:09.036233+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
     "confidence": "medium"
   },
   {
-    "timestamp": "2026-07-08T09:41:54.747923+00:00",
+    "timestamp": "2026-07-08T14:38:25.979758+00:00",
     "level_m": 95.105,
     "source": "epa_png",
     "quality": "chart_derived",
