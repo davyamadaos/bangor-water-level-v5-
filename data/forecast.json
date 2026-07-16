@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "timestamp": "2026-07-16T20:01:04.315893+00:00",
+    "hours_ahead": 0,
+    "level_m": 95.105,
+    "basis": "stable river",
+    "confidence": "high",
+    "source": "forecast",
+    "trend": "stable",
+    "starting_level": 95.105,
+    "starting_level_source": "epa_png",
+    "starting_level_confidence": "medium",
+    "observation_age_hours": 3.6
+  },
+  {
+    "timestamp": "2026-07-16T23:01:04.315893+00:00",
+    "hours_ahead": 3,
+    "level_m": 95.105,
+    "basis": "stable river",
+    "confidence": "high",
+    "source": "forecast",
+    "trend": "stable",
+    "starting_level": 95.105,
+    "starting_level_source": "epa_png",
+    "starting_level_confidence": "medium",
+    "observation_age_hours": 3.6
+  },
+  {
+    "timestamp": "2026-07-17T02:01:04.315893+00:00",
+    "hours_ahead": 6,
+    "level_m": 95.105,
+    "basis": "stable river",
+    "confidence": "high",
+    "source": "forecast",
+    "trend": "stable",
+    "starting_level": 95.105,
+    "starting_level_source": "epa_png",
+    "starting_level_confidence": "medium",
+    "observation_age_hours": 3.6
+  },
+  {
+    "timestamp": "2026-07-17T08:01:04.315893+00:00",
+    "hours_ahead": 12,
+    "level_m": 95.105,
+    "basis": "stable river",
+    "confidence": "high",
+    "source": "forecast",
+    "trend": "stable",
+    "starting_level": 95.105,
+    "starting_level_source": "epa_png",
+    "starting_level_confidence": "medium",
+    "observation_age_hours": 3.6
+  },
+  {
+    "timestamp": "2026-07-17T20:01:04.315893+00:00",
+    "hours_ahead": 24,
+    "level_m": 95.105,
+    "basis": "stable river",
+    "confidence": "high",
+    "source": "forecast",
+    "trend": "stable",
+    "starting_level": 95.105,
+    "starting_level_source": "epa_png",
+    "starting_level_confidence": "medium",
+    "observation_age_hours": 3.6
+  }
+]
