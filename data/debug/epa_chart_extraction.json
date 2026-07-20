@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T16:42:59.590821+00:00",
+  "generated": "2026-07-20T18:32:55.090250+00:00",
   "plot": {
     "left": 63,
     "right": 665,
@@ -7,7 +7,7 @@
     "bottom": 440,
     "method": "fallback"
   },
-  "ocr_preview": "S [m(TEM)]\n\nBANGOR / Stage\n29.85\n99.80\n09.75\n09.70\n29.05\n29.60\n09.85\n29.50\n09.45\n99.40\n09.95\n99.30\n09.25\n99.20\n909.16\n90.10\n99.05\n99.00\n08.05\n\n98.00\n\n210426 20.0426 07.08.26 16.05.26 2305.25 3105.26 08.06.28 16.08.26 2408.26 0207.26 1007.26 1807.25\nLast value 3t20.07.26 12:45 98.046 m (TBM) aw 1min data\nResponsible: Environmental Protection Agency 20.07.2026 17:13\n\n@EPA AC KISTERS\n",
+  "ocr_preview": "S [m(TEM)]\n\nBANGOR / Stage\n29.85\n99.80\n09.75\n09.70\n29.05\n29.60\n09.85\n29.50\n09.45\n99.40\n09.95\n99.30\n09.25\n99.20\n909.16\n90.10\n99.05\n99.00\n08.05\n\n98.00\n\n210426 20.0426 07.08.26 16.05.26 2305.25 3105.26 08.06.28 16.08.26 2408.26 0207.26 1007.26 1807.26\nLast value 3t20.07.26 16:45 98.044 m (TBM) Raw 18min data\nResponsible: Environmental Protection Agency 20.07.2028 10:13\n\n@EPA AC KISTERS\n",
   "point_count": 602,
   "confidence": "medium",
   "success": true
