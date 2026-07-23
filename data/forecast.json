@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2026-07-23T03:32:04.301830+00:00",
+    "timestamp": "2026-07-23T05:59:20.254430+00:00",
     "hours_ahead": 0,
     "level_m": 95.105,
     "basis": "stable river",
@@ -10,10 +10,10 @@
     "starting_level": 95.105,
     "starting_level_source": "epa_png",
     "starting_level_confidence": "medium",
-    "observation_age_hours": 3.7
+    "observation_age_hours": 3.6
   },
   {
-    "timestamp": "2026-07-23T06:32:04.301830+00:00",
+    "timestamp": "2026-07-23T08:59:20.254430+00:00",
     "hours_ahead": 3,
     "level_m": 95.105,
     "basis": "stable river",
@@ -23,10 +23,10 @@
     "starting_level": 95.105,
     "starting_level_source": "epa_png",
     "starting_level_confidence": "medium",
-    "observation_age_hours": 3.7
+    "observation_age_hours": 3.6
   },
   {
-    "timestamp": "2026-07-23T09:32:04.301830+00:00",
+    "timestamp": "2026-07-23T11:59:20.254430+00:00",
     "hours_ahead": 6,
     "level_m": 95.105,
     "basis": "stable river",
@@ -36,10 +36,10 @@
     "starting_level": 95.105,
     "starting_level_source": "epa_png",
     "starting_level_confidence": "medium",
-    "observation_age_hours": 3.7
+    "observation_age_hours": 3.6
   },
   {
-    "timestamp": "2026-07-23T15:32:04.301830+00:00",
+    "timestamp": "2026-07-23T17:59:20.254430+00:00",
     "hours_ahead": 12,
     "level_m": 95.105,
     "basis": "stable river",
@@ -49,10 +49,10 @@
     "starting_level": 95.105,
     "starting_level_source": "epa_png",
     "starting_level_confidence": "medium",
-    "observation_age_hours": 3.7
+    "observation_age_hours": 3.6
   },
   {
-    "timestamp": "2026-07-24T03:32:04.301830+00:00",
+    "timestamp": "2026-07-24T05:59:20.254430+00:00",
     "hours_ahead": 24,
     "level_m": 95.105,
     "basis": "stable river",
@@ -62,6 +62,6 @@
     "starting_level": 95.105,
     "starting_level_source": "epa_png",
     "starting_level_confidence": "medium",
-    "observation_age_hours": 3.7
+    "observation_age_hours": 3.6
   }
 ]
