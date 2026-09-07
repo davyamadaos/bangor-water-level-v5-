@@ -1,5 +1,14 @@
 {
-  "generated": "2026-09-07T09:42:21.182879+00:00",
-  "success": false,
-  "error": "503 Server Error: Service Unavailable for url: https://epawebapp.epa.ie/Hydronet/output/internet/stations/CAS/33008/S/extralarge_3m_extralarge.png"
+  "generated": "2026-09-07T15:15:44.060138+00:00",
+  "plot": {
+    "left": 63,
+    "right": 665,
+    "top": 60,
+    "bottom": 440,
+    "method": "fallback"
+  },
+  "ocr_preview": "S [m(TEM)\n\nBANGOR / Stage\n09.05\n\n99.00\n29.85\n99.80\n09.75\n09.70\n29.05\n29.60\n09.85\n29.50\n09.45\n99.40\n09.95\n99.30\n09.25\n99.20\n909.16\n90.10\n99.05\n99.00\n08.05\n98.00\n\n08.06.26 1606.26 2406.28 02.07.26 10.07.26 1807.26 26.07.26 03.08.26 110826 1908.26 27.08.28 0400.26\nLastvalue 3t07.09.26 12:45) 99,176 m (TEM) aw 1min data\nResponsible: Environmental Protection Agency 07.09.2026 16:08\n\n@EPA AC KISTERS\n\n",
+  "point_count": 602,
+  "confidence": "medium",
+  "success": true
 }

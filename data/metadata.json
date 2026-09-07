@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-09-07T09:42:20.507825+00:00",
+  "last_update": "2026-09-07T15:15:43.138483+00:00",
   "epa_zip_ok": false,
-  "epa_png_ok": false,
+  "epa_png_ok": true,
   "weather_ok": false,
   "rainfall_ok": false,
   "tide_ok": true,
-  "forecast_ok": false
+  "forecast_ok": true
 }
