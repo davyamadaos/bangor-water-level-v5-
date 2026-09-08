@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T13:22:36.208857+00:00",
+  "generated": "2026-09-08T17:18:32.575851+00:00",
   "plot": {
     "left": 63,
     "right": 665,
@@ -7,7 +7,7 @@
     "bottom": 440,
     "method": "fallback"
   },
-  "ocr_preview": "S [m(TEM)\n\nBANGOR / Stage\n09.05\n\n99.00\n29.85\n99.80\n09.75\n09.70\n29.05\n29.60\n09.85\n29.50\n09.45\n99.40\n09.95\n99.30\n09.25\n99.20\n909.16\n90.10\n99.05\n99.00\n08.05\n98.00\n\n09.06.26 17.06.26 25.06.28 0307.26 11.07.26 10.07.26 27.07.26 0408.26 120826 2008.26 28.08.28 0500.26\nLastvalue at 08.09.26 08:95\" 99.227 m (TEM) aw 15min data\nResponsible: Environmental Protection Agency (08.00.2026 12:48\n\n@EPA AC KISTERS\n\n",
+  "ocr_preview": "S [m(TEM)\n\nBANGOR / Stage\n09.05\n\n99.00\n29.85\n99.80\n09.75\n09.70\n29.05\n29.60\n09.85\n29.50\n09.45\n99.40\n09.95\n99.30\n09.25\n99.20\n909.16\n90.10\n99.05\n99.00\n08.05\n98.00\n\n09.06.26 17.06.26 25.06.28 0307.26 11.07.26 10.07.26 27.07.26 0408.26 120826 2008.26 28.08.26 05.00.26\nLastvalue 3t08,09.26 12:95 99.228 m (TEM) aw 15min data\nResponsible: Environmental Protection Agency 08.09.2026 17:48\n\n@EPA AC KISTERS\n\n",
   "point_count": 602,
   "confidence": "medium",
   "success": true
