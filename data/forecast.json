@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2026-09-25T15:26:43.908128+00:00",
+    "timestamp": "2026-09-25T18:41:19.682355+00:00",
     "hours_ahead": 0,
     "level_m": 95.105,
     "basis": "stable river",
@@ -13,7 +13,7 @@
     "observation_age_hours": 3.6
   },
   {
-    "timestamp": "2026-09-25T18:26:43.908128+00:00",
+    "timestamp": "2026-09-25T21:41:19.682355+00:00",
     "hours_ahead": 3,
     "level_m": 95.105,
     "basis": "stable river",
@@ -26,7 +26,7 @@
     "observation_age_hours": 3.6
   },
   {
-    "timestamp": "2026-09-25T21:26:43.908128+00:00",
+    "timestamp": "2026-09-26T00:41:19.682355+00:00",
     "hours_ahead": 6,
     "level_m": 95.105,
     "basis": "stable river",
@@ -39,7 +39,7 @@
     "observation_age_hours": 3.6
   },
   {
-    "timestamp": "2026-09-26T03:26:43.908128+00:00",
+    "timestamp": "2026-09-26T06:41:19.682355+00:00",
     "hours_ahead": 12,
     "level_m": 95.105,
     "basis": "stable river",
@@ -52,7 +52,7 @@
     "observation_age_hours": 3.6
   },
   {
-    "timestamp": "2026-09-26T15:26:43.908128+00:00",
+    "timestamp": "2026-09-26T18:41:19.682355+00:00",
     "hours_ahead": 24,
     "level_m": 95.105,
     "basis": "stable river",
