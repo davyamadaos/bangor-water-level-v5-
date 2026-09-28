@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T15:56:46.829785+00:00",
+  "generated": "2026-09-28T21:30:21.122785+00:00",
   "plot": {
     "left": 63,
     "right": 665,
@@ -7,7 +7,7 @@
     "bottom": 440,
     "method": "fallback"
   },
-  "ocr_preview": "S [m(TEM)\n\nBANGOR / Stage\n09.05\n\n99.00\n29.85\n99.80\n09.75\n09.70\n29.05\n29.60\n09.85\n29.50\n09.45\n99.40\n09.95\n99.30\n09.25\n99.20\n909.16\n90.10\n99.05\n99.00\n08.05\n98.00\n\n2006.26 07.07.26 16.07.28 2307.26 91.07.26 08.08.26 16.08.26 2408.26 01.00.26 0900.28 17.09.26 2500.26\nLast value at 28.09.36 12:45) 90.219 m (TEM) Raw 1Smin data\nResponsible: Environmental Protection Agency 28.00.2026 16:17\n\nEPA AR KISTERS\n\n",
+  "ocr_preview": "S [m(TEM)\n\nBANGOR / Stage\n09.05\n\n99.00\n29.85\n99.80\n09.75\n09.70\n29.05\n29.60\n09.85\n29.50\n09.45\n99.40\n09.95\n99.30\n09.25\n99.20\n909.16\n90.10\n99.05\n99.00\n08.05\n98.00\n\n2006.26 07.07.26 1607.28 2307.26 91.07.26 08.08.26 16.08.26 2408.26 01.00.26 0900.28 17.09.28 2500.26\nLast value 3t28,09.36 16:45\" 99,104 m (TEM) Raw 15min data\nResponsible: Environmental Protection Agency 28.00.2026 21:18\n\nEPA AR KISTERS\n\n",
   "point_count": 602,
   "confidence": "medium",
   "success": true
