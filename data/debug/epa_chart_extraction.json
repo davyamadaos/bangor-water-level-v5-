@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T13:40:17.757535+00:00",
+  "generated": "2026-10-14T18:10:06.683513+00:00",
   "plot": {
     "left": 63,
     "right": 665,
@@ -7,7 +7,7 @@
     "bottom": 440,
     "method": "fallback"
   },
-  "ocr_preview": "S [m(TEM)]\n\n100.4\n\n1003\n\n1002\n\n100.1\n\n1009\n\n299\n\n98\n\n007\n\n298\n\n095\n\n00.8\n\n093\n\n092\n\n20.1\n\n290\n\n289\n\nBANGOR / Stage\n\n1607.26 23.07.26 91.07.26 08.08.26\nLastvalue at 14.10.36 08:45\" 90.317 m (TEM)\n\nResponsible: Environmental Protection Agency\nEPA\n\n16.0825 2408.28 01.00.26 09.00.26\n\n17.09.26 25.09.26 03.10.26\n\n11.10.28\nRaw min data\n\n14.10.2028 14:20\n\nAC KISTERS\n",
+  "ocr_preview": "S [m(TEM)]\n\n100.4\n\n1003\n\n1002\n\n100.1\n\n1009\n\n299\n\n98\n\n007\n\n298\n\n095\n\n00.8\n\n093\n\n092\n\n20.1\n\n290\n\n289\n\nBANGOR / Stage\n\n1607.26 23.07.28 31.07.26 08.08.26\nLastvalue at 14.10.36 12:45° 99.284 m (TEM)\n\nResponsible: Environmental Protection Agency\nEPA\n\n16.0825 2408.28 01.00.26 09.00.26\n\n17.09.26 25.09.26 03.10.26\n\n11.10.28\nRaw min data\n\n14.10.2028 18:21\n\nAC KISTERS\n",
   "point_count": 602,
   "confidence": "medium",
   "success": true
