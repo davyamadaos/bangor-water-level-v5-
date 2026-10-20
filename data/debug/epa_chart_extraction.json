@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T20:16:25.128248+00:00",
+  "generated": "2026-10-20T23:15:20.147152+00:00",
   "plot": {
     "left": 63,
     "right": 665,
@@ -7,7 +7,7 @@
     "bottom": 440,
     "method": "fallback"
   },
-  "ocr_preview": "S [m(TEM)]\n\nBANGOR / Stage\n100.4\n1003\n1002\n100.1\n1009\n299\n98\n007\n298\n095\n00.8\n093\n092\n20.1\n290\n\n289\n\n2107.26 2007.26 0908.28 1408.26 22.08.26 20.08.26 07.00.26\nLast value 3t20.10.36 16:45' 99.081 m (TEM)\n\nResponsible: Environmental Protection Agency\nEPA\n\n16.09.28 23.09.26 01.10.28 09.10.26\n\n17.10.28\nRaw min data\n\n20.10.2026 10:57\n\nAC KISTERS\n",
+  "ocr_preview": "S [m(TEM)]\n\nBANGOR / Stage\n100.4\n1003\n1002\n100.1\n1009\n299\n98\n007\n298\n095\n00.8\n093\n092\n20.1\n290\n\n289\n\n2107.26 2007.26 0908.28 1408.26 22.08.26 20.08.26 07.00.26\nLast value 3t20.10.36 20:45\" 99.086 m (TEM)\n\nResponsible: Environmental Protection Agency\nEPA\n\n16.09.28 23.09.26 01.10.28 09.10.26\n\n17.10.28\nRaw 15min data\n\n20.10.2026 22:58\n\nAC KISTERS\n",
   "point_count": 602,
   "confidence": "medium",
   "success": true
