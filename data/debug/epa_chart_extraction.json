@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T02:27:41.068871+00:00",
+  "generated": "2026-10-22T07:50:15.417876+00:00",
   "plot": {
     "left": 63,
     "right": 665,
@@ -7,7 +7,7 @@
     "bottom": 440,
     "method": "fallback"
   },
-  "ocr_preview": "S [m(TEM)]\n\nBANGOR / Stage\n100.4\n1003\n1002\n100.1\n1009\n299\n98\n007\n298\n095\n00.8\n093\n092\n20.1\n290\n\n289\n\n2907.26 3107.26 0808.28 16.08.26 2408.26 01.09.26 09.00.26\nLastvalue 3t21.10.36 20:45 99.466 m (TEM)\n\nResponsible: Environmental Protection Agency\nEPA\n\n17.09.26 25.09.26 03.1026\n\n11.10.28\n\n19.10.26\nRaw 15min data\n\n22.10.2026 02:18\n\nAC KISTERS\n",
+  "ocr_preview": "S [m(TEM)]\n\nBANGOR / Stage\n100.4\n1003\n1002\n100.1\n1009\n299\n98\n007\n298\n095\n00.8\n093\n092\n20.1\n290\n\n289\n\n2907.26 3107.26 0808.28 16.08.26 2408.26 01.09.26 09.00.26\nLast value 3t22.10.36 04:45 99.519 m (TEM)\n\nResponsible: Environmental Protection Agency\nEPA\n\n17.09.26 25.09.26 03.1026\n\n11.10.28\n\n19.10.26\nRaw min data\n\n22.10.2026 08:18\n\nAC KISTERS\n",
   "point_count": 602,
   "confidence": "medium",
   "success": true
